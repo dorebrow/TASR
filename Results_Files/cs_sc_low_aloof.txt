@@ -1,0 +1,100 @@
+Run #1
+Total System Travel Time for SO: 3761.123657227
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.23943 seconds
+
+Run #2
+Total System Travel Time for SO: 2501.46484375
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.21457 seconds
+
+Run #3
+Total System Travel Time for SO: 3761.123657227
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.2809 seconds
+
+Run #4
+Total System Travel Time for SO: 1250.045776367
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.20369 seconds
+
+Run #5
+Total System Travel Time for SO: 3761.123657227
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.22701 seconds
+
+Run #6
+Total System Travel Time for SO: 3761.123657227
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.28529 seconds
+
+Run #7
+Total System Travel Time for SO: 1250.045776367
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.21737 seconds
+
+Run #8
+Total System Travel Time for SO: 1250.045776367
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.226 seconds
+
+Run #9
+Total System Travel Time for SO: 3761.123657227
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.23008 seconds
+
+Run #10
+Total System Travel Time for SO: 1250.045776367
+Total ALOOF flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for ALOOF:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.26398 seconds
+

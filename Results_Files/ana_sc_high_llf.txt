@@ -1,0 +1,1000 @@
+Run #1
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.98785 seconds
+
+Run #2
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.85788 seconds
+
+Run #3
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.28993 seconds
+
+Run #4
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.05804 seconds
+
+Run #5
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.26549 seconds
+
+Run #6
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.16991 seconds
+
+Run #7
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.96608 seconds
+
+Run #8
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.06135 seconds
+
+Run #9
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.93989 seconds
+
+Run #10
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.20469 seconds
+
+Run #11
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.31612 seconds
+
+Run #12
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.45777 seconds
+
+Run #13
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.97601 seconds
+
+Run #14
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.53693 seconds
+
+Run #15
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.89255 seconds
+
+Run #16
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.91496 seconds
+
+Run #17
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.92523 seconds
+
+Run #18
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.03696 seconds
+
+Run #19
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.21166 seconds
+
+Run #20
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.05872 seconds
+
+Run #21
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.3585 seconds
+
+Run #22
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.91024 seconds
+
+Run #23
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.95036 seconds
+
+Run #24
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.57436 seconds
+
+Run #25
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.00687 seconds
+
+Run #26
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.42122 seconds
+
+Run #27
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.16471 seconds
+
+Run #28
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.51273 seconds
+
+Run #29
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.10191 seconds
+
+Run #30
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.9254 seconds
+
+Run #31
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.09982 seconds
+
+Run #32
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.34659 seconds
+
+Run #33
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.98057 seconds
+
+Run #34
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.86544 seconds
+
+Run #35
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.84582 seconds
+
+Run #36
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.84807 seconds
+
+Run #37
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.84933 seconds
+
+Run #38
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.83877 seconds
+
+Run #39
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.84563 seconds
+
+Run #40
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.82661 seconds
+
+Run #41
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.8483 seconds
+
+Run #42
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.85449 seconds
+
+Run #43
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.83422 seconds
+
+Run #44
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.94161 seconds
+
+Run #45
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.1532 seconds
+
+Run #46
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.99005 seconds
+
+Run #47
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.88755 seconds
+
+Run #48
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.90214 seconds
+
+Run #49
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.91798 seconds
+
+Run #50
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.86691 seconds
+
+Run #51
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.94049 seconds
+
+Run #52
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.91731 seconds
+
+Run #53
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.92201 seconds
+
+Run #54
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.89092 seconds
+
+Run #55
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.0924 seconds
+
+Run #56
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.86759 seconds
+
+Run #57
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.87524 seconds
+
+Run #58
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.87262 seconds
+
+Run #59
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.85524 seconds
+
+Run #60
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.84189 seconds
+
+Run #61
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.85107 seconds
+
+Run #62
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.95279 seconds
+
+Run #63
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.838 seconds
+
+Run #64
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.01002 seconds
+
+Run #65
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.86882 seconds
+
+Run #66
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.89484 seconds
+
+Run #67
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.8897 seconds
+
+Run #68
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.85789 seconds
+
+Run #69
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.90182 seconds
+
+Run #70
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.87106 seconds
+
+Run #71
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.0562 seconds
+
+Run #72
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.8936 seconds
+
+Run #73
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.89125 seconds
+
+Run #74
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.08998 seconds
+
+Run #75
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.89013 seconds
+
+Run #76
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.92688 seconds
+
+Run #77
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.86381 seconds
+
+Run #78
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.89735 seconds
+
+Run #79
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.8677 seconds
+
+Run #80
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.89948 seconds
+
+Run #81
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.87895 seconds
+
+Run #82
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.89372 seconds
+
+Run #83
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.23592 seconds
+
+Run #84
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.1014 seconds
+
+Run #85
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.937 seconds
+
+Run #86
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.90831 seconds
+
+Run #87
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.862 seconds
+
+Run #88
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.86552 seconds
+
+Run #89
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.84535 seconds
+
+Run #90
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.85006 seconds
+
+Run #91
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 1.16378 seconds
+
+Run #92
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.89207 seconds
+
+Run #93
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.89312 seconds
+
+Run #94
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.8763 seconds
+
+Run #95
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.90135 seconds
+
+Run #96
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.88497 seconds
+
+Run #97
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  29586.69732091446
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.7966555476782581
+Runtime: 0.85609 seconds
+
+Run #98
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.90035 seconds
+
+Run #99
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.85691 seconds
+
+Run #100
+Total System Travel Time for SO: 25577.71904449
+Total LLF flow assigned:  8100.0
+Total selfish flow assigned:  8100.0
+Total System Travel Time for LLF:  30978.64747606375
+Total System Travel Time for Selfish Best Response:  30978.64747606375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.86024 seconds
+

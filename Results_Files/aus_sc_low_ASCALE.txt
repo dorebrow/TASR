@@ -1,0 +1,1000 @@
+Run #1
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.58907 seconds
+
+Run #2
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.79955 seconds
+
+Run #3
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.7764 seconds
+
+Run #4
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.70943 seconds
+
+Run #5
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.61955 seconds
+
+Run #6
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.55868 seconds
+
+Run #7
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.60185 seconds
+
+Run #8
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.59472 seconds
+
+Run #9
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.64939 seconds
+
+Run #10
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.61995 seconds
+
+Run #11
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.24144 seconds
+
+Run #12
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 17.26945 seconds
+
+Run #13
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.02055 seconds
+
+Run #14
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.95192 seconds
+
+Run #15
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.92288 seconds
+
+Run #16
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.06863 seconds
+
+Run #17
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.0905 seconds
+
+Run #18
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.11843 seconds
+
+Run #19
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 17.20604 seconds
+
+Run #20
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.5584 seconds
+
+Run #21
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.75189 seconds
+
+Run #22
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.67102 seconds
+
+Run #23
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.41621 seconds
+
+Run #24
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.94555 seconds
+
+Run #25
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.59321 seconds
+
+Run #26
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.69382 seconds
+
+Run #27
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.50555 seconds
+
+Run #28
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.73885 seconds
+
+Run #29
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.72085 seconds
+
+Run #30
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.77427 seconds
+
+Run #31
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.68177 seconds
+
+Run #32
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.3376 seconds
+
+Run #33
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.88461 seconds
+
+Run #34
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.752 seconds
+
+Run #35
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.65502 seconds
+
+Run #36
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 91.90459 seconds
+
+Run #37
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.75102 seconds
+
+Run #38
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.92152 seconds
+
+Run #39
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.5094 seconds
+
+Run #40
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.94025 seconds
+
+Run #41
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.76481 seconds
+
+Run #42
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.05996 seconds
+
+Run #43
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.67216 seconds
+
+Run #44
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.8199 seconds
+
+Run #45
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.70145 seconds
+
+Run #46
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.07552 seconds
+
+Run #47
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.92022 seconds
+
+Run #48
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.95669 seconds
+
+Run #49
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.7771 seconds
+
+Run #50
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.9634 seconds
+
+Run #51
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.19357 seconds
+
+Run #52
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.31468 seconds
+
+Run #53
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.58681 seconds
+
+Run #54
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.63955 seconds
+
+Run #55
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.0027 seconds
+
+Run #56
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 17.31469 seconds
+
+Run #57
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.49762 seconds
+
+Run #58
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.70902 seconds
+
+Run #59
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.55106 seconds
+
+Run #60
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.35129 seconds
+
+Run #61
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.31344 seconds
+
+Run #62
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.56895 seconds
+
+Run #63
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.26114 seconds
+
+Run #64
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.67135 seconds
+
+Run #65
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.40109 seconds
+
+Run #66
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.59498 seconds
+
+Run #67
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.31848 seconds
+
+Run #68
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.58312 seconds
+
+Run #69
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 17.16729 seconds
+
+Run #70
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.1041 seconds
+
+Run #71
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.85304 seconds
+
+Run #72
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.9659 seconds
+
+Run #73
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.58608 seconds
+
+Run #74
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.10722 seconds
+
+Run #75
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 17.08606 seconds
+
+Run #76
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.65076 seconds
+
+Run #77
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.04241 seconds
+
+Run #78
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.92023 seconds
+
+Run #79
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.05467 seconds
+
+Run #80
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.43393 seconds
+
+Run #81
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.99372 seconds
+
+Run #82
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.15515 seconds
+
+Run #83
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.92896 seconds
+
+Run #84
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.26833 seconds
+
+Run #85
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 17.22882 seconds
+
+Run #86
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.81266 seconds
+
+Run #87
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.94141 seconds
+
+Run #88
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 17.03811 seconds
+
+Run #89
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.02743 seconds
+
+Run #90
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.44484 seconds
+
+Run #91
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 17.01834 seconds
+
+Run #92
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.09212 seconds
+
+Run #93
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 17.319 seconds
+
+Run #94
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 17.05699 seconds
+
+Run #95
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.58505 seconds
+
+Run #96
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.94861 seconds
+
+Run #97
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.67537 seconds
+
+Run #98
+Total System Travel Time for SO: 65192.209325581
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 16.69831 seconds
+
+Run #99
+Total System Travel Time for SO: 57168.507899048
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 16.79814 seconds
+
+Run #100
+Total System Travel Time for SO: 71412.01002114
+Total ASCALE flow assigned:  24999.75
+Total selfish flow assigned:  24999.75
+Total System Travel Time for ASCALE:  38021.88540234375
+Total System Travel Time for Selfish Best Response:  38021.88540234375
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 16.54912 seconds
+

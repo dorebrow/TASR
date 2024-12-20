@@ -1,0 +1,900 @@
+Run #1
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3136437.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  338341713702.2089
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 134046262387275.02
+Runtime: 8.61188 seconds
+
+Run #2
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3154750.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  348158349696.70966
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 137354416010584.81
+Runtime: 8.78021 seconds
+
+Run #3
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3168125.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  350355080713.6509
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 138613663485504.78
+Runtime: 8.62695 seconds
+
+Run #4
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3161000.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  328048024789.4197
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 126518238510842.6
+Runtime: 8.68891 seconds
+
+Run #5
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3161156.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  343580607442.2871
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 134568945144246.55
+Runtime: 8.65263 seconds
+
+Run #6
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3157750.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  313594183962.05286
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 116694136816788.77
+Runtime: 8.74967 seconds
+
+Run #7
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3148750.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  352116118646.3275
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 141838394596587.22
+Runtime: 8.77371 seconds
+
+Run #8
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3158718.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  318219606316.5513
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 121432138768771.42
+Runtime: 8.79902 seconds
+
+Run #9
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3150656.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  318074904150.30725
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 125212333064614.97
+Runtime: 8.77501 seconds
+
+Run #10
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3141875.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  347456836521.39575
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 139206203592485.36
+Runtime: 8.69511 seconds
+
+Run #11
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3172562.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  364420383452.21014
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 144047048581297.72
+Runtime: 8.67636 seconds
+
+Run #12
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3170031.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  321279750312.68463
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 125855938380805.12
+Runtime: 8.73951 seconds
+
+Run #13
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3118437.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  345673905364.3784
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 138852598924158.06
+Runtime: 8.69143 seconds
+
+Run #14
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3161781.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  343020378819.64526
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 135564192848990.86
+Runtime: 8.72917 seconds
+
+Run #15
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3166343.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  339559270870.71576
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132856426053912.3
+Runtime: 8.76653 seconds
+
+Run #16
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3150531.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  316396754471.89166
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 123918843897163.03
+Runtime: 8.78256 seconds
+
+Run #17
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3152437.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  331599381471.62024
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 130110488087781.48
+Runtime: 8.72838 seconds
+
+Run #18
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3177500.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  314016841442.2179
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 122644659114613.73
+Runtime: 8.71781 seconds
+
+Run #19
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3165468.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  341800314348.40106
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 135691789630734.03
+Runtime: 8.68635 seconds
+
+Run #20
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3176281.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  322997004336.6042
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 123869943990258.97
+Runtime: 8.68881 seconds
+
+Run #21
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3134750.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  313554278070.64484
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 121433854987438.95
+Runtime: 8.79712 seconds
+
+Run #22
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3146687.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  333202644522.5766
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132476602341793.77
+Runtime: 8.72864 seconds
+
+Run #23
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3180750.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  365107823857.4921
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 144259643487323.2
+Runtime: 8.77107 seconds
+
+Run #24
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3146125.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  360169856556.47394
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 143273736776251.2
+Runtime: 8.84818 seconds
+
+Run #25
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3113437.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  312965369602.0672
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 121451841076436.33
+Runtime: 8.68202 seconds
+
+Run #26
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3177343.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  351160317745.70715
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 138188904269903.6
+Runtime: 8.74095 seconds
+
+Run #27
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3161500.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  339395015922.5241
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 133313337225303.39
+Runtime: 8.70381 seconds
+
+Run #28
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3149906.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  331724030411.84357
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 130569943709221.19
+Runtime: 8.6012 seconds
+
+Run #29
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3149093.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  324024936948.9624
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 129659306984780.86
+Runtime: 8.79129 seconds
+
+Run #30
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3112468.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  314477872161.5768
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 123328931471128.89
+Runtime: 8.79026 seconds
+
+Run #31
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3148937.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  341467703416.79803
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 133134082369394.55
+Runtime: 8.7465 seconds
+
+Run #32
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3126312.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  343558901471.0364
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 135189882369098.94
+Runtime: 8.72057 seconds
+
+Run #33
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3150875.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  342597047994.20514
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 135211313158401.61
+Runtime: 8.78386 seconds
+
+Run #34
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3124687.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  352230326122.24677
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 140851912383794.6
+Runtime: 8.77585 seconds
+
+Run #35
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3134000.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  346907594474.1079
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 140755556532767.8
+Runtime: 8.74568 seconds
+
+Run #36
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3143406.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  333053638311.39166
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 129047493982583.6
+Runtime: 8.72755 seconds
+
+Run #37
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3151031.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  364389185490.19727
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 146298066796381.94
+Runtime: 8.79853 seconds
+
+Run #38
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3177343.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  355064078415.46936
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 139497082569902.61
+Runtime: 8.68574 seconds
+
+Run #39
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3116375.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  330138376662.65686
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132233544233449.86
+Runtime: 8.70575 seconds
+
+Run #40
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3158343.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  316946681175.774
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 120942455586131.33
+Runtime: 8.79 seconds
+
+Run #41
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3127281.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  346768454200.4176
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 133517046412151.75
+Runtime: 8.74398 seconds
+
+Run #42
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3166562.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  331324158368.4165
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132696751855727.06
+Runtime: 8.75624 seconds
+
+Run #43
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3174843.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  322990832931.02966
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 123211538815410.75
+Runtime: 8.72713 seconds
+
+Run #44
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3148281.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  300531938230.2888
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 117633975454449.33
+Runtime: 8.81844 seconds
+
+Run #45
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3150593.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  307866733528.9559
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 118202001934229.06
+Runtime: 8.75669 seconds
+
+Run #46
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3178968.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  341770634326.14
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132677236850828.66
+Runtime: 8.70021 seconds
+
+Run #47
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3142218.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  370744689491.44293
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 145289256835756.9
+Runtime: 8.6717 seconds
+
+Run #48
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3147531.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  350044104589.10266
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 137150439325030.45
+Runtime: 8.75263 seconds
+
+Run #49
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3144781.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  326521441889.6115
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 127827302141550.34
+Runtime: 8.70099 seconds
+
+Run #50
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3148343.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  322088521658.66327
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 124596323323719.86
+Runtime: 8.73496 seconds
+
+Run #51
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3169781.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  317807129377.52124
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 122325866587636.02
+Runtime: 8.65568 seconds
+
+Run #52
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3166750.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  319239457880.13074
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 125026152062397.39
+Runtime: 8.75034 seconds
+
+Run #53
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3139531.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  346197295207.0017
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 135232963214180.94
+Runtime: 8.68507 seconds
+
+Run #54
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3138531.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  345100878131.6122
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 138449252747822.03
+Runtime: 8.8035 seconds
+
+Run #55
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3104343.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  314539917682.2366
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 122731901673431.4
+Runtime: 8.77688 seconds
+
+Run #56
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3145375.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  333571476819.563
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 129548935272171.05
+Runtime: 8.77629 seconds
+
+Run #57
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3130718.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  335432291480.58997
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 134431831433451.9
+Runtime: 8.75736 seconds
+
+Run #58
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3123468.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  333349408967.3989
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 131964935492071.22
+Runtime: 8.83098 seconds
+
+Run #59
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3146468.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  332562864597.0405
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 128251428256422.69
+Runtime: 8.78462 seconds
+
+Run #60
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3161125.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  323115846029.01697
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 127966550479041.86
+Runtime: 8.76649 seconds
+
+Run #61
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3142937.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  379550067746.4551
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 150073273746751.1
+Runtime: 8.75022 seconds
+
+Run #62
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3138906.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  306832286002.42737
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 118142004105798.75
+Runtime: 8.76737 seconds
+
+Run #63
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3135156.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  323663008175.0755
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 126901211592988.58
+Runtime: 8.7512 seconds
+
+Run #64
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3158687.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  347667185806.0587
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 139212494104567.42
+Runtime: 8.72466 seconds
+
+Run #65
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3185906.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  335914314601.2495
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132501867734368.77
+Runtime: 8.75751 seconds
+
+Run #66
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3157656.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  338105669136.16785
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 137586404709862.88
+Runtime: 8.71029 seconds
+
+Run #67
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3158250.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  312597548746.1112
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 123652753462133.86
+Runtime: 8.70795 seconds
+
+Run #68
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3136406.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  304250726011.35443
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 119816451951341.22
+Runtime: 8.7585 seconds
+
+Run #69
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3162406.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  338999161993.8947
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 136185963519124.27
+Runtime: 8.73811 seconds
+
+Run #70
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3172250.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  374644055757.5513
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 149640045133187.9
+Runtime: 8.80262 seconds
+
+Run #71
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3121406.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  341146044060.93427
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 136252018112944.8
+Runtime: 8.73706 seconds
+
+Run #72
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3140343.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  316129409828.7783
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 125903453217532.88
+Runtime: 8.73655 seconds
+
+Run #73
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3121812.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  345796184287.24115
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 136567914256382.73
+Runtime: 8.76426 seconds
+
+Run #74
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3154718.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  306667437520.97595
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 117921558720912.55
+Runtime: 8.74902 seconds
+
+Run #75
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3124687.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  319735156682.26556
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 126218350687524.67
+Runtime: 8.68216 seconds
+
+Run #76
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3137437.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  301502819550.6469
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 117087934814803.02
+Runtime: 8.69728 seconds
+
+Run #77
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3152281.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  317058433973.17334
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 125998281052063.6
+Runtime: 8.70353 seconds
+
+Run #78
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3154750.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  336176700685.47076
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132381718286307.1
+Runtime: 8.77871 seconds
+
+Run #79
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3120437.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  292755419569.4992
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 115715710159911.23
+Runtime: 8.79146 seconds
+
+Run #80
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3133937.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  320346883562.0889
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 125789337919534.48
+Runtime: 8.71639 seconds
+
+Run #81
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3144875.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  340707067642.9018
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 133174391287182.62
+Runtime: 8.7582 seconds
+
+Run #82
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3123187.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  348007645215.0743
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 136653929669950.56
+Runtime: 8.73575 seconds
+
+Run #83
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3144406.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  343517859959.6508
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 136503570367766.52
+Runtime: 8.7024 seconds
+
+Run #84
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3142031.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  354507936384.17816
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 138923615997923.25
+Runtime: 8.70726 seconds
+
+Run #85
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3152781.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  352130037536.27386
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 139808476837053.14
+Runtime: 8.75702 seconds
+
+Run #86
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3145781.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  331410134118.05133
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132480772585221.38
+Runtime: 8.75926 seconds
+
+Run #87
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3136093.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  320561135090.9884
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 122980482046464.33
+Runtime: 8.58096 seconds
+
+Run #88
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3152906.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  339136491410.86115
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 132757851059900.55
+Runtime: 8.66152 seconds
+
+Run #89
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3134906.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  307326022583.912
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 120794733326810.89
+Runtime: 8.63803 seconds
+
+Run #90
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3168687.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  364858706337.6588
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 144415393630066.53
+Runtime: 8.75453 seconds
+
+Run #91
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3179062.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  382763352614.0133
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 154793139003137.94
+Runtime: 8.73484 seconds
+
+Run #92
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3137437.5
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  322775112279.5001
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 123401281677499.64
+Runtime: 8.74211 seconds
+
+Run #93
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3164531.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  388333327782.3128
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 158959061248055.66
+Runtime: 8.73506 seconds
+
+Run #94
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3171375.0
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  305997063628.77313
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 119900567623052.7
+Runtime: 8.82505 seconds
+
+Run #95
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3168343.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  340088852830.57477
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 131034537322840.89
+Runtime: 8.76015 seconds
+
+Run #96
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3137718.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  330596324451.67676
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 127770874041210.0
+Runtime: 8.78256 seconds
+
+Run #97
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3133781.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  341210184981.5671
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 135198640416269.98
+Runtime: 8.78012 seconds
+
+Run #98
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3140656.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  337262433432.2155
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 133248612772965.17
+Runtime: 8.71864 seconds
+
+Run #99
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3169156.25
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  366993214964.69
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 147217666698078.8
+Runtime: 8.71182 seconds
+
+Run #100
+Total System Travel Time for SO: 21265561.872118797
+Total TASR flow assigned:  3142218.75
+Total selfish flow assigned:  5996375.0
+Total System Travel Time for TASR:  349459887158.3563
+Total System Travel Time for Selfish Best Response:  10260126761132.654
+Total System Travel Time for All Demand: 135864551934070.28
+Runtime: 8.74033 seconds
+

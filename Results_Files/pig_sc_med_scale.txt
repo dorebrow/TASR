@@ -1,0 +1,1000 @@
+Run #1
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.82629 seconds
+
+Run #2
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.83839 seconds
+
+Run #3
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.88659 seconds
+
+Run #4
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.80434 seconds
+
+Run #5
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.79551 seconds
+
+Run #6
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.8128 seconds
+
+Run #7
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.91097 seconds
+
+Run #8
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.97125 seconds
+
+Run #9
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.86084 seconds
+
+Run #10
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.85283 seconds
+
+Run #11
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.89321 seconds
+
+Run #12
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 1.1009 seconds
+
+Run #13
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.86038 seconds
+
+Run #14
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.84486 seconds
+
+Run #15
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.83094 seconds
+
+Run #16
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.80479 seconds
+
+Run #17
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.80004 seconds
+
+Run #18
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.79997 seconds
+
+Run #19
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.8011 seconds
+
+Run #20
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.80067 seconds
+
+Run #21
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.78947 seconds
+
+Run #22
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.85012 seconds
+
+Run #23
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.8093 seconds
+
+Run #24
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.82362 seconds
+
+Run #25
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.81118 seconds
+
+Run #26
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.81454 seconds
+
+Run #27
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.79434 seconds
+
+Run #28
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.84031 seconds
+
+Run #29
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.82726 seconds
+
+Run #30
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.83352 seconds
+
+Run #31
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.82544 seconds
+
+Run #32
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.80218 seconds
+
+Run #33
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.82297 seconds
+
+Run #34
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.81565 seconds
+
+Run #35
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.94491 seconds
+
+Run #36
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.84724 seconds
+
+Run #37
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.84038 seconds
+
+Run #38
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.96064 seconds
+
+Run #39
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.92956 seconds
+
+Run #40
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.87048 seconds
+
+Run #41
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.94942 seconds
+
+Run #42
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.86702 seconds
+
+Run #43
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.84514 seconds
+
+Run #44
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.83413 seconds
+
+Run #45
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.83112 seconds
+
+Run #46
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.81244 seconds
+
+Run #47
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.83683 seconds
+
+Run #48
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.81272 seconds
+
+Run #49
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.83348 seconds
+
+Run #50
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.80628 seconds
+
+Run #51
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.84029 seconds
+
+Run #52
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.95491 seconds
+
+Run #53
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.92463 seconds
+
+Run #54
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.82667 seconds
+
+Run #55
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.80549 seconds
+
+Run #56
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.83481 seconds
+
+Run #57
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.82852 seconds
+
+Run #58
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.83198 seconds
+
+Run #59
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.8044 seconds
+
+Run #60
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.84687 seconds
+
+Run #61
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.84542 seconds
+
+Run #62
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.85941 seconds
+
+Run #63
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.81319 seconds
+
+Run #64
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 1.19644 seconds
+
+Run #65
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.83332 seconds
+
+Run #66
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.8069 seconds
+
+Run #67
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.86744 seconds
+
+Run #68
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.83012 seconds
+
+Run #69
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.88274 seconds
+
+Run #70
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.93753 seconds
+
+Run #71
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.86659 seconds
+
+Run #72
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.82697 seconds
+
+Run #73
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.03743 seconds
+
+Run #74
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.95257 seconds
+
+Run #75
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.82314 seconds
+
+Run #76
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.80527 seconds
+
+Run #77
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.79146 seconds
+
+Run #78
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.78959 seconds
+
+Run #79
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.77809 seconds
+
+Run #80
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.81131 seconds
+
+Run #81
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.77922 seconds
+
+Run #82
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 1.13929 seconds
+
+Run #83
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.92615 seconds
+
+Run #84
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.86953 seconds
+
+Run #85
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.87964 seconds
+
+Run #86
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.79996 seconds
+
+Run #87
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.77621 seconds
+
+Run #88
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.85995 seconds
+
+Run #89
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.82281 seconds
+
+Run #90
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.91165 seconds
+
+Run #91
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.26164 seconds
+
+Run #92
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.7999 seconds
+
+Run #93
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.79386 seconds
+
+Run #94
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.92337 seconds
+
+Run #95
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.83723 seconds
+
+Run #96
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.85191 seconds
+
+Run #97
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 0.80514 seconds
+
+Run #98
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1536.5168809890747
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 0.87791 seconds
+
+Run #99
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1507.3172807693481
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 0.8604 seconds
+
+Run #100
+Total System Travel Time for SO: 1504.449462891
+Total SCALE flow assigned:  75.0
+Total selfish flow assigned:  75.0
+Total System Travel Time for SCALE:  1516.9635772705078
+Total System Travel Time for Selfish Best Response:  1571.19140625
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 1.30402 seconds
+

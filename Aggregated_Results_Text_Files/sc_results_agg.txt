@@ -1,0 +1,740 @@
+#File: sc_results_agg.txt
+#Purpose: Contains the aggregated results of parsing all output files for all
+#single-commodity experiments. Record of all results data from single-commodity
+#experiments, excluding trust information (found in sc_results_trust.txt). Result of
+#running parse_file_output.py for all single-commodity experiment output files.
+
+SF LOW
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/SF_sc_low_tasr.txt TASR   
+Average Total System Travel Time for SO: 2540.74 ± 0.00
+Average TASR flow assigned: 1269.63 ± 0.00
+Average selfish flow assigned: 1269.63 ± 0.00
+Average Total System Travel Time for TASR: 2540.74 ± 0.00  
+Average Total System Travel Time for Selfish Best Response: 2540.74 ± 0.00
+Average Runtime: 0.52547 ± 0.03704 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_low_cc.txt CC  
+Average Total System Travel Time for SO: 2540.74 ± 0.00
+Average CC flow assigned: 1269.63 ± 0.00
+Average selfish flow assigned: 1269.63 ± 0.00
+Average Total System Travel Time for CC: 2540.74 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 2540.74 ± 0.00
+Average Runtime: 0.56275 ± 0.02667 seconds
+
+Average Runtime: 0.52547python parse_file_output.py Results_Files/sf_sc_low_llf.txt LLF
+Average Total System Travel Time for SO: 2540.74 ± 0.00    
+Average LLF flow assigned: 1269.63 ± 0.00
+Average selfish flow assigned: 1269.63 ± 0.00
+Average Total System Travel Time for LLF: 2540.74 ± 0.00   
+Average Total System Travel Time for Selfish Best Response: 2540.74 ± 0.00
+Average Runtime: 0.54087 ± 0.01396 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_low_scale.txt SCALE
+Average Total System Travel Time for SO: 2540.74 ± 0.00
+Average SCALE flow assigned: 1269.63 ± 0.00
+Average selfish flow assigned: 1269.63 ± 0.00
+Average Total System Travel Time for SCALE: 2540.74 ± 0.00 
+Average Total System Travel Time for Selfish Best Response: 2540.74 ± 0.00
+Average Runtime: 0.53128 ± 0.03372 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_low_ascale.txt ASCALE
+Average Total System Travel Time for SO: 4391.26 ± 466.28
+Average ASCALE flow assigned: 1269.63 ± 0.00
+Average selfish flow assigned: 1269.63 ± 0.00
+Average Total System Travel Time for ASCALE: 2540.74 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 2540.74 ± 0.00
+Average Runtime: 0.54578 ± 0.01422 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_low_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 1396.78 ± 553.58
+Average ALOOF flow assigned: 1269.63 ± 0.00
+Average selfish flow assigned: 1269.63 ± 0.00
+Average Total System Travel Time for ALOOF: 2540.74 ± 0.00 
+Average Total System Travel Time for Selfish Best Response: 2540.74 ± 0.00
+Average Runtime: 0.57910 ± 0.01968 seconds
+
+SF MED
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_med_tasr.txt TASR    
+Average Total System Travel Time for SO: 7979.31 ± 0.00
+Average TASR flow assigned: 3808.88 ± 0.00
+Average selfish flow assigned: 3808.88 ± 0.00
+Average Total System Travel Time for TASR: 7979.31 ± 0.00  
+Average Total System Travel Time for Selfish Best Response: 7979.31 ± 0.00
+Average Runtime: 0.54320 ± 0.01817 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_med_cc.txt CC
+Average Total System Travel Time for SO: 7979.31 ± 0.00
+Average CC flow assigned: 3808.88 ± 0.00
+Average selfish flow assigned: 3808.88 ± 0.00
+Average Total System Travel Time for CC: 7979.31 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 7979.31 ± 0.00
+Average Runtime: 0.54017 ± 0.00992 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_med_llf.txt LLF  
+Average Total System Travel Time for SO: 7979.31 ± 0.00
+Average LLF flow assigned: 3808.88 ± 0.00
+Average selfish flow assigned: 3808.88 ± 0.00
+Average Total System Travel Time for LLF: 7979.31 ± 0.00   
+Average Total System Travel Time for Selfish Best Response: 7979.31 ± 0.00
+Average Runtime: 0.54279 ± 0.04080 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_med_scale.txt SCALE
+Average Total System Travel Time for SO: 7979.31 ± 0.00
+Average SCALE flow assigned: 3808.88 ± 0.00
+Average selfish flow assigned: 3808.88 ± 0.00
+Average Total System Travel Time for SCALE: 7979.31 ± 0.00 
+Average Total System Travel Time for Selfish Best Response: 7979.31 ± 0.00
+Average Runtime: 0.54447 ± 0.04048 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_med_ascale.txt ASCALE
+Average Total System Travel Time for SO: 19513.18 ± 3701.51
+Average ASCALE flow assigned: 3808.88 ± 0.00
+Average selfish flow assigned: 3808.88 ± 0.00
+Average Total System Travel Time for ASCALE: 7979.31 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 7979.31 ± 0.00
+Average Runtime: 0.54236 ± 0.01007 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_med_aloof.txt ALOOF
+Average Total System Travel Time for SO: 4030.78 ± 1365.37
+Average ALOOF flow assigned: 3808.88 ± 0.00
+Average selfish flow assigned: 3808.88 ± 0.00
+Average Total System Travel Time for ALOOF: 7979.31 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 7979.31 ± 0.00
+Average Runtime: 0.54296 ± 0.01176 seconds
+
+SF HIGH
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_high_tasr.txt TASR   
+Average Total System Travel Time for SO: 26759.90 ± 0.00
+Average TASR flow assigned: 7617.76 ± 0.00
+Average selfish flow assigned: 7617.76 ± 0.00
+Average Total System Travel Time for TASR: 26759.90 ± 0.00 
+Average Total System Travel Time for Selfish Best Response: 26805.00 ± 0.00
+Average Runtime: 0.82194 ± 0.04383 seconds
+
+Average Total System Travel Time for SO: 26759.90 ± 0.00
+Average CC flow assigned: 7617.76 ± 0.00
+Average selfish flow assigned: 7617.76 ± 0.00
+Average Total System Travel Time for CC: 26759.90 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 26805.00 ± 0.00
+Average Runtime: 0.87103 ± 0.01213 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_high_llf.txt LLF  
+Average Total System Travel Time for SO: 26759.90 ± 0.00
+Average LLF flow assigned: 7617.76 ± 0.00
+Average selfish flow assigned: 7617.76 ± 0.00
+Average Total System Travel Time for LLF: 26805.00 ± 0.00  
+Average Total System Travel Time for Selfish Best Response: 26805.00 ± 0.00
+Average Runtime: 0.85893 ± 0.02453 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_high_scale.txt SCALE
+Average Total System Travel Time for SO: 26759.90 ± 0.00
+Average SCALE flow assigned: 7617.76 ± 0.00
+Average selfish flow assigned: 7617.76 ± 0.00
+Average Total System Travel Time for SCALE: 26774.23 ± 9.14
+Average Total System Travel Time for Selfish Best Response: 26805.00 ± 0.00
+Average Runtime: 0.84028 ± 0.05914 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_high_ascale.txt ASCALE
+Average Total System Travel Time for SO: 86846.63 ± 16762.10
+Average ASCALE flow assigned: 7617.76 ± 0.00
+Average selfish flow assigned: 7617.76 ± 0.00
+Average Total System Travel Time for ASCALE: 28491.72 ± 1566.78
+Average Total System Travel Time for Selfish Best Response: 26805.00 ± 0.00
+Average Runtime: 0.89421 ± 0.03376 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/sf_sc_high_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 7554.22 ± 3795.90
+Average ALOOF flow assigned: 7617.76 ± 0.00
+Average selfish flow assigned: 7617.76 ± 0.00
+Average Total System Travel Time for ALOOF: 26805.00 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 26805.00 ± 0.00
+Average Runtime: 0.53976 ± 0.01324 seconds
+
+CS LOW
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_low_tasr.txt TASR   
+Average Total System Travel Time for SO: 5046.88 ± 0.00
+Average TASR flow assigned: 500.00 ± 0.00
+Average selfish flow assigned: 500.00 ± 0.00
+Average Total System Travel Time for TASR: 5046.88 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 5046.88 ± 0.00
+Average Runtime: 3.21324 ± 0.06163 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_low_cc.txt CC     
+Average Total System Travel Time for SO: 5046.88 ± 0.00
+Average CC flow assigned: 500.00 ± 0.00
+Average selfish flow assigned: 500.00 ± 0.00
+Average Total System Travel Time for CC: 5046.88 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 5046.88 ± 0.00
+Average Runtime: 3.26377 ± 0.07470 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_low_llf.txt LLF 
+Average Total System Travel Time for SO: 5046.88 ± 0.00
+Average LLF flow assigned: 500.00 ± 0.00
+Average selfish flow assigned: 500.00 ± 0.00
+Average Total System Travel Time for LLF: 5046.88 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 5046.88 ± 0.00
+Average Runtime: 3.13765 ± 0.09414 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_low_scale.txt SCALE   
+Average Total System Travel Time for SO: 5046.88 ± 0.00
+Average SCALE flow assigned: 500.00 ± 0.00
+Average selfish flow assigned: 500.00 ± 0.00
+Average Total System Travel Time for SCALE: 5046.88 ± 0.00 
+Average Total System Travel Time for Selfish Best Response: 5046.88 ± 0.00
+Average Runtime: 3.24141 ± 0.28971 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_low_ascale.txt ASCALE
+Average Total System Travel Time for SO: 9277.59 ± 1050.27
+Average ASCALE flow assigned: 500.00 ± 0.00
+Average selfish flow assigned: 500.00 ± 0.00
+Average Total System Travel Time for ASCALE: 5046.88 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 5046.88 ± 0.00
+Average Runtime: 3.22720 ± 0.05768 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_low_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 2630.73 ± 1184.52
+Average ALOOF flow assigned: 500.00 ± 0.00
+Average selfish flow assigned: 500.00 ± 0.00
+Average Total System Travel Time for ALOOF: 5046.88 ± 0.00 
+Average Total System Travel Time for Selfish Best Response: 5046.88 ± 0.00
+Average Runtime: 3.23883 ± 0.02688 seconds
+
+CS MED
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_med_tasr.txt TASR
+Average Total System Travel Time for SO: 21085.83 ± 0.00
+Average TASR flow assigned: 1500.00 ± 0.00
+Average selfish flow assigned: 1500.00 ± 0.00
+Average Total System Travel Time for TASR: 21096.84 ± 16.05
+Average Total System Travel Time for Selfish Best Response: 26390.62 ± 0.00
+Average Runtime: 3.60566 ± 0.08687 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_med_cc.txt CC
+Average Total System Travel Time for SO: 21085.83 ± 0.00
+Average CC flow assigned: 1500.00 ± 0.00
+Average selfish flow assigned: 1500.00 ± 0.00
+Average Total System Travel Time for CC: 21085.83 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 26390.62 ± 0.00
+Average Runtime: 3.59844 ± 0.03848 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_med_llf.txt LLF
+Average Total System Travel Time for SO: 21085.83 ± 0.00
+Average LLF flow assigned: 1500.00 ± 0.00
+Average selfish flow assigned: 1500.00 ± 0.00
+Average Total System Travel Time for LLF: 25958.20 ± 552.35
+Average Total System Travel Time for Selfish Best Response: 26390.62 ± 0.00
+Average Runtime: 3.61350 ± 0.23425 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_med_scale.txt SCALE
+Average Total System Travel Time for SO: 21085.83 ± 0.00
+Average SCALE flow assigned: 1500.00 ± 0.00
+Average selfish flow assigned: 1500.00 ± 0.00
+Average Total System Travel Time for SCALE: 22573.84 ± 1081.75
+Average Total System Travel Time for Selfish Best Response: 26390.62 ± 0.00
+Average Runtime: 3.69611 ± 0.44191 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_med_ascale.txt ASCALE 
+Average Total System Travel Time for SO: 41228.38 ± 4379.05
+Average ASCALE flow assigned: 1500.00 ± 0.00
+Average selfish flow assigned: 1500.00 ± 0.00
+Average Total System Travel Time for ASCALE: 21681.54 ± 334.96
+Average Total System Travel Time for Selfish Best Response: 26390.62 ± 0.00
+Average Runtime: 3.57403 ± 0.03658 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_med_aloof.txt ALOOF
+Average Total System Travel Time for SO: 6999.20 ± 3839.03
+Average ALOOF flow assigned: 1500.00 ± 0.00
+Average selfish flow assigned: 1500.00 ± 0.00
+Average Total System Travel Time for ALOOF: 25945.24 ± 890.78
+Average Total System Travel Time for Selfish Best Response: 26390.62 ± 0.00
+Average Runtime: 3.43428 ± 0.40641 seconds
+
+CS HIGH
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_high_tasr.txt TASR
+Average Total System Travel Time for SO: 52220.26 ± 0.00
+Average TASR flow assigned: 3000.00 ± 0.00
+Average selfish flow assigned: 3000.00 ± 0.00
+Average Total System Travel Time for TASR: 77934.78 ± 33000.95
+Average Total System Travel Time for Selfish Best Response: 394500.00 ± 0.00
+Average Runtime: 3.55836 ± 0.10826 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_high_cc.txt CC
+Average Total System Travel Time for SO: 52220.26 ± 0.00
+Average CC flow assigned: 3000.00 ± 0.00
+Average selfish flow assigned: 3000.00 ± 0.00
+Average Total System Travel Time for CC: 52220.26 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 61127.48 ± 0.00
+Average Runtime: 3.59162 ± 0.05922 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_high_llf.txt LLF
+Average Total System Travel Time for SO: 52220.26 ± 0.00
+Average LLF flow assigned: 3000.00 ± 0.00
+Average selfish flow assigned: 3000.00 ± 0.00
+Average Total System Travel Time for LLF: 232749.83 ± 132346.12
+Average Total System Travel Time for Selfish Best Response: 394500.00 ± 0.00
+Average Runtime: 3.52725 ± 0.08455 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_high_scale.txt SCALE
+Average Total System Travel Time for SO: 52220.26 ± 0.00
+Average SCALE flow assigned: 3000.00 ± 0.00
+Average selfish flow assigned: 3000.00 ± 0.00
+Average Total System Travel Time for SCALE: 107803.94 ± 51563.44
+Average Total System Travel Time for Selfish Best Response: 394500.00 ± 0.00
+Average Runtime: 3.52495 ± 0.14240 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_high_ascale.txt ASCALE
+Average Total System Travel Time for SO: 109575.20 ± 19908.24
+Average ASCALE flow assigned: 3000.00 ± 0.00
+Average selfish flow assigned: 3000.00 ± 0.00
+Average Total System Travel Time for ASCALE: 102753.53 ± 54071.97
+Average Total System Travel Time for Selfish Best Response: 394500.00 ± 0.00
+Average Runtime: 3.67385 ± 0.16349 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/cs_sc_high_aloof.txt ALOOF
+Average Total System Travel Time for SO: 16203.43 ± 11307.57
+Average ALOOF flow assigned: 3000.00 ± 0.00
+Average selfish flow assigned: 3000.00 ± 0.00
+Average Total System Travel Time for ALOOF: 292588.76 ± 131749.03
+Average Total System Travel Time for Selfish Best Response: 394500.00 ± 0.00
+Average Runtime: 3.62471 ± 0.08371 seconds
+
+PIG LOW
+Average Runtime: 0.82581python parse_file_output.py Results_Files/pig_sc_low_tasr.txt TASR
+Average Total System Travel Time for SO: 500.02 ± 0.00
+Average TASR flow assigned: 25.00 ± 0.00
+Average selfish flow assigned: 25.00 ± 0.00
+Average Total System Travel Time for TASR: 500.03 ± 0.02      
+Average Total System Travel Time for Selfish Best Response: 500.29 ± 0.00
+Average Runtime: 0.80378 ± 0.04226 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_low_cc.txt CC
+Average Total System Travel Time for SO: 500.02 ± 0.00        
+Average CC flow assigned: 25.00 ± 0.00
+Average selfish flow assigned: 25.00 ± 0.00
+Average Total System Travel Time for CC: 500.02 ± 0.00        
+Average Total System Travel Time for Selfish Best Response: 500.02 ± 0.00
+Average Runtime: 0.82581 ± 0.17641 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_low_llf.txt LLF  
+Average Total System Travel Time for SO: 500.02 ± 0.00
+Average LLF flow assigned: 25.00 ± 0.00
+Average selfish flow assigned: 25.00 ± 0.00
+Average Total System Travel Time for LLF: 500.22 ± 0.11       
+Average Total System Travel Time for Selfish Best Response: 500.29 ± 0.00
+Average Runtime: 0.94837 ± 0.45453 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_low_scale.txt SCALE
+Average Total System Travel Time for SO: 500.02 ± 0.00
+Average SCALE flow assigned: 25.00 ± 0.00
+Average selfish flow assigned: 25.00 ± 0.00
+Average Total System Travel Time for SCALE: 500.08 ± 0.05     
+Average Total System Travel Time for Selfish Best Response: 500.29 ± 0.00
+Average Runtime: 0.87960 ± 0.10181 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_low_ascale.txt ASCALE
+Average Total System Travel Time for SO: 846.60 ± 71.23
+Average ASCALE flow assigned: 25.00 ± 0.00
+Average selfish flow assigned: 25.00 ± 0.00
+Average Total System Travel Time for ASCALE: 500.08 ± 0.05    
+Average Total System Travel Time for Selfish Best Response: 500.29 ± 0.00
+Average Runtime: 0.87646 ± 0.10694 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_low_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 237.50 ± 102.32
+Average ALOOF flow assigned: 25.00 ± 0.00
+Average selfish flow assigned: 25.00 ± 0.00
+Average Total System Travel Time for ALOOF: 500.15 ± 0.12     
+Average Total System Travel Time for Selfish Best Response: 500.29 ± 0.00
+Average Runtime: 0.87642 ± 0.07027 seconds
+
+PIG MED
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_med_tasr.txt TASR
+Average Total System Travel Time for SO: 1504.45 ± 0.00
+Average TASR flow assigned: 75.00 ± 0.00
+Average selfish flow assigned: 75.00 ± 0.00
+Average Total System Travel Time for TASR: 1507.95 ± 5.62     
+Average Total System Travel Time for Selfish Best Response: 1571.19 ± 0.00
+Average Runtime: 0.89452 ± 0.11822 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_med_cc.txt CC        
+Average Total System Travel Time for SO: 1504.45 ± 0.00
+Average CC flow assigned: 75.00 ± 0.00
+Average selfish flow assigned: 75.00 ± 0.00
+Average Total System Travel Time for CC: 1504.45 ± 0.00       
+Average Total System Travel Time for Selfish Best Response: 1504.45 ± 0.00
+Average Runtime: 0.83683 ± 0.08921 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_med_llf.txt LLF  
+Average Total System Travel Time for SO: 1504.45 ± 0.00
+Average LLF flow assigned: 75.00 ± 0.00
+Average selfish flow assigned: 75.00 ± 0.00
+Average Total System Travel Time for LLF: 1552.21 ± 25.87     
+Average Total System Travel Time for Selfish Best Response: 1571.19 ± 0.00
+Average Runtime: 0.86281 ± 0.11934 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_med_scale.txt SCALE
+Average Total System Travel Time for SO: 1504.45 ± 0.00
+Average SCALE flow assigned: 75.00 ± 0.00
+Average selfish flow assigned: 75.00 ± 0.00
+Average Total System Travel Time for SCALE: 1521.69 ± 12.21   
+Average Total System Travel Time for Selfish Best Response: 1571.19 ± 0.00
+Average Runtime: 0.86312 ± 0.09300 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_med_ascale.txt ASCALE
+Average Total System Travel Time for SO: 2612.68 ± 248.19
+Average ASCALE flow assigned: 75.00 ± 0.00
+Average selfish flow assigned: 75.00 ± 0.00
+Average Total System Travel Time for ASCALE: 1520.62 ± 12.06  
+Average Total System Travel Time for Selfish Best Response: 1571.19 ± 0.00
+Average Runtime: 0.86490 ± 0.09478 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_med_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 776.69 ± 306.27
+Average ALOOF flow assigned: 75.00 ± 0.00
+Average selfish flow assigned: 75.00 ± 0.00
+Average Total System Travel Time for ALOOF: 1519.26 ± 11.99   
+Average Total System Travel Time for Selfish Best Response: 1571.19 ± 0.00
+Average Runtime: 0.85911 ± 0.07674 seconds
+
+PIG HIGH
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_high_tasr.txt TASR   
+Average Total System Travel Time for SO: 3142.38 ± 0.00
+Average TASR flow assigned: 150.00 ± 0.00
+Average selfish flow assigned: 150.00 ± 0.00
+Average Total System Travel Time for TASR: 3246.50 ± 175.65   
+Average Total System Travel Time for Selfish Best Response: 5278.12 ± 0.00
+Average Runtime: 0.82675 ± 0.11993 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_high_cc.txt CC       
+Average Total System Travel Time for SO: 3142.38 ± 0.00
+Average CC flow assigned: 150.00 ± 0.00
+Average selfish flow assigned: 150.00 ± 0.00
+Average Total System Travel Time for CC: 3142.38 ± 0.00       
+Average Total System Travel Time for Selfish Best Response: 3142.38 ± 0.00
+Average Runtime: 0.87352 ± 0.19307 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_high_llf.txt LLF     
+Average Total System Travel Time for SO: 3142.38 ± 0.00
+Average LLF flow assigned: 150.00 ± 0.00
+Average selfish flow assigned: 150.00 ± 0.00
+Average Total System Travel Time for LLF: 4722.83 ± 809.47    
+Average Total System Travel Time for Selfish Best Response: 5278.12 ± 0.00
+Average Runtime: 0.87451 ± 0.06410 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_high_scale.txt SCALE 
+Average Total System Travel Time for SO: 3142.38 ± 0.00
+Average SCALE flow assigned: 150.00 ± 0.00
+Average selfish flow assigned: 150.00 ± 0.00
+Average Total System Travel Time for SCALE: 3697.34 ± 395.53  
+Average Total System Travel Time for Selfish Best Response: 5278.12 ± 0.00
+Average Runtime: 0.89170 ± 0.14217 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_high_ascale.txt ASCALE
+Average Total System Travel Time for SO: 7017.66 ± 1332.51
+Average ASCALE flow assigned: 150.00 ± 0.00
+Average selfish flow assigned: 150.00 ± 0.00
+Average Total System Travel Time for ASCALE: 3600.82 ± 385.08 
+Average Total System Travel Time for Selfish Best Response: 5278.12 ± 0.00
+Average Runtime: 0.88769 ± 0.10694 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/pig_sc_high_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 1444.07 ± 632.83
+Average ALOOF flow assigned: 150.00 ± 0.00
+Average selfish flow assigned: 150.00 ± 0.00
+Average Total System Travel Time for ALOOF: 3694.26 ± 397.93  
+Average Total System Travel Time for Selfish Best Response: 5278.12 ± 0.00
+Average Runtime: 0.83551 ± 0.06369 seconds
+
+ANA
+ANA LOW
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_low_tasr.txt TASR     
+Average Total System Travel Time for SO: 3104.07 ± 0.00
+Average TASR flow assigned: 1350.00 ± 0.00
+Average selfish flow assigned: 1350.00 ± 0.00
+Average Total System Travel Time for TASR: 3104.07 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 3104.07 ± 0.00
+Average Runtime: 0.49882 ± 0.03448 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_low_cc.txt CC    
+Average Total System Travel Time for SO: 3104.07 ± 0.00
+Average CC flow assigned: 1350.00 ± 0.00
+Average selfish flow assigned: 1350.00 ± 0.00
+Average Total System Travel Time for CC: 3104.07 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 3104.07 ± 0.00
+Average Runtime: 0.58963 ± 0.14414 seconds 
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_low_llf.txt LLF
+Average Total System Travel Time for SO: 3104.07 ± 0.00
+Average LLF flow assigned: 1350.00 ± 0.00
+Average selfish flow assigned: 1350.00 ± 0.00
+Average Total System Travel Time for LLF: 3104.07 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 3104.07 ± 0.00
+Average Runtime: 0.51340 ± 0.02621 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_low_scale.txt SCALE
+Average Total System Travel Time for SO: 3104.07 ± 0.00
+Average SCALE flow assigned: 1350.00 ± 0.00
+Average selfish flow assigned: 1350.00 ± 0.00
+Average Total System Travel Time for SCALE: 3104.07 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 3104.07 ± 0.00
+Average Runtime: 0.52024 ± 0.03639 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_low_ascale.txt ASCALE
+Average Total System Travel Time for SO: 5211.18 ± 478.66
+Average ASCALE flow assigned: 1350.00 ± 0.00
+Average selfish flow assigned: 1350.00 ± 0.00
+Average Total System Travel Time for ASCALE: 3104.07 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 3104.07 ± 0.00
+Average Runtime: 0.53772 ± 0.05354 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_low_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 1597.94 ± 656.65
+Average ALOOF flow assigned: 1350.00 ± 0.00
+Average selfish flow assigned: 1350.00 ± 0.00
+Average Total System Travel Time for ALOOF: 3104.07 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 3104.07 ± 0.00
+Average Runtime: 0.51444 ± 0.03916 seconds
+
+ANA MED
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_med_tasr.txt TASR    
+Average Total System Travel Time for SO: 9693.82 ± 0.00
+Average TASR flow assigned: 4050.00 ± 0.00
+Average selfish flow assigned: 4050.00 ± 0.00
+Average Total System Travel Time for TASR: 9693.82 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 9693.82 ± 0.00
+Average Runtime: 0.51303 ± 0.03874 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_med_cc.txt CC        
+Average Total System Travel Time for SO: 9693.82 ± 0.00
+Average CC flow assigned: 4050.00 ± 0.00
+Average selfish flow assigned: 4050.00 ± 0.00
+Average Total System Travel Time for CC: 9693.82 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 9693.82 ± 0.00
+Average Runtime: 0.50823 ± 0.05147 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_med_llf.txt LLF      
+Average Total System Travel Time for SO: 9693.82 ± 0.00
+Average LLF flow assigned: 4050.00 ± 0.00
+Average selfish flow assigned: 4050.00 ± 0.00
+Average Total System Travel Time for LLF: 9693.82 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 9693.82 ± 0.00
+Average Runtime: 0.51121 ± 0.02263 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_med_scale.txt SCALE  
+Average Total System Travel Time for SO: 9693.82 ± 0.00
+Average SCALE flow assigned: 4050.00 ± 0.00
+Average selfish flow assigned: 4050.00 ± 0.00
+Average Total System Travel Time for SCALE: 9693.82 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 9693.82 ± 0.00
+Average Runtime: 0.53056 ± 0.04313 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_med_ascale.txt ASCALE
+Average Total System Travel Time for SO: 20249.91 ± 2559.83
+Average ASCALE flow assigned: 4050.00 ± 0.00
+Average selfish flow assigned: 4050.00 ± 0.00
+Average Total System Travel Time for ASCALE: 10069.20 ± 124.15
+Average Total System Travel Time for Selfish Best Response: 9693.82 ± 0.00
+Average Runtime: 0.88218 ± 0.07175 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_med_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 4643.48 ± 2040.21
+Average ALOOF flow assigned: 4050.00 ± 0.00
+Average selfish flow assigned: 4050.00 ± 0.00
+Average Total System Travel Time for ALOOF: 9693.82 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 9693.82 ± 0.00
+Average Runtime: 0.49687 ± 0.01982 seconds
+
+ANA HIGH
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_high_tasr.txt TASR   
+Average Total System Travel Time for SO: 25577.72 ± 0.00
+Average TASR flow assigned: 8100.00 ± 0.00
+Average selfish flow assigned: 8100.00 ± 0.00
+Average Total System Travel Time for TASR: 25559.33 ± 23.65
+Average Total System Travel Time for Selfish Best Response: 30978.65 ± 0.00
+Average Runtime: 0.88233 ± 0.07670 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_high_cc.txt CC       
+Average Total System Travel Time for SO: 25577.72 ± 0.00
+Average CC flow assigned: 8100.00 ± 0.00
+Average selfish flow assigned: 8100.00 ± 0.00
+Average Total System Travel Time for CC: 25577.72 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 30978.65 ± 0.00
+Average Runtime: 0.97247 ± 0.18958 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_high_llf.txt LLF     
+Average Total System Travel Time for SO: 25577.72 ± 0.00
+Average LLF flow assigned: 8100.00 ± 0.00
+Average selfish flow assigned: 8100.00 ± 0.00
+Average Total System Travel Time for LLF: 30533.22 ± 649.31
+Average Total System Travel Time for Selfish Best Response: 30978.65 ± 0.00
+Average Runtime: 0.98349 ± 0.17388 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_high_scale.txt SCALE 
+Average Total System Travel Time for SO: 25577.72 ± 0.00
+Average SCALE flow assigned: 8100.00 ± 0.00
+Average selfish flow assigned: 8100.00 ± 0.00
+Average Total System Travel Time for SCALE: 27082.24 ± 1007.94
+Average Total System Travel Time for Selfish Best Response: 30978.65 ± 0.00
+Average Runtime: 0.91193 ± 0.08441 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_high_ascale.txt ASCALE
+Average Total System Travel Time for SO: 52010.67 ± 6011.17
+Average ASCALE flow assigned: 8100.00 ± 0.00
+Average selfish flow assigned: 8100.00 ± 0.00
+Average Total System Travel Time for ASCALE: 26028.03 ± 475.97
+Average Total System Travel Time for Selfish Best Response: 30978.65 ± 0.00
+Average Runtime: 0.92403 ± 0.09904 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/ana_sc_high_aloof.txt ALOOF  
+Average Total System Travel Time for SO: 11022.73 ± 5048.00
+Average ALOOF flow assigned: 8100.00 ± 0.00
+Average selfish flow assigned: 8100.00 ± 0.00
+Average Total System Travel Time for ALOOF: 30426.63 ± 690.38
+Average Total System Travel Time for Selfish Best Response: 30978.65 ± 0.00
+Average Runtime: 0.65550 ± 0.17489 seconds
+
+AUS LOW
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_low_tasr.txt TASR     
+Average Total System Travel Time for SO: 38021.89 ± 0.00
+Average TASR flow assigned: 24999.75 ± 0.00
+Average selfish flow assigned: 24999.75 ± 0.00       
+Average Total System Travel Time for TASR: 38021.89 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 38021.89 ± 0.00
+Average Runtime: 17.46001 ± 0.28568 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_low_cc.txt CC    
+Average Total System Travel Time for SO: 38021.89 ± 0.00
+Average CC flow assigned: 24999.75 ± 0.00
+Average selfish flow assigned: 24999.75 ± 0.00       
+Average Total System Travel Time for CC: 38021.89 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 38021.89 ± 0.00
+Average Runtime: 17.35566 ± 0.29585 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_low_llf.txt LLF
+Average Total System Travel Time for SO: 38021.89 ± 0.00
+Average LLF flow assigned: 24999.75 ± 0.00
+Average selfish flow assigned: 24999.75 ± 0.00
+Average Total System Travel Time for LLF: 119068.54 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 38021.89 ± 0.00
+Average Runtime: 20.09164 ± 4.08561 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_low_SCALE.txt SCALE
+Average Total System Travel Time for SO: 38021.89 ± 0.00
+Average SCALE flow assigned: 24999.75 ± 0.00
+Average selfish flow assigned: 24999.75 ± 0.00       
+Average Total System Travel Time for SCALE: 38021.89 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 38021.89 ± 0.00
+Average Runtime: 16.88342 ± 0.26978 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_low_ASCALE.txt ASCALE
+Average Total System Travel Time for SO: 65042.27 ± 5673.42
+Average ASCALE flow assigned: 24999.75 ± 0.00        
+Average selfish flow assigned: 24999.75 ± 0.00       
+Average Total System Travel Time for ASCALE: 38021.89 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 38021.89 ± 0.00
+Average Runtime: 17.59253 ± 7.47353 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_low_ALOOF.txt ALOOF  
+Average Total System Travel Time for SO: 17481.31 ± 7326.05
+Average ALOOF flow assigned: 24999.75 ± 0.00
+Average selfish flow assigned: 24999.75 ± 0.00       
+Average Total System Travel Time for ALOOF: 38021.89 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 38021.89 ± 0.00
+Average Runtime: 16.86667 ± 0.26525 seconds
+
+AUS MED
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_med_tasr.txt TASR    
+Average Total System Travel Time for SO: 119409.35 ± 0.00
+Average TASR flow assigned: 74999.25 ± 0.00
+Average selfish flow assigned: 74999.25 ± 0.00
+Average Total System Travel Time for TASR: 119409.35 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 119409.35 ± 0.00
+Average Runtime: 17.65701 ± 0.39296 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_med_cc.txt CC        
+Average Total System Travel Time for SO: 119409.35 ± 0.00
+Average CC flow assigned: 74999.25 ± 0.00
+Average selfish flow assigned: 74999.25 ± 0.00
+Average Total System Travel Time for CC: 119409.35 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 119409.35 ± 0.00
+Average Runtime: 17.19939 ± 0.25531 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_med_llf.txt LLF      
+Average Total System Travel Time for SO: 119409.35 ± 0.00
+Average LLF flow assigned: 74999.25 ± 0.00
+Average selfish flow assigned: 74999.25 ± 0.00       
+Average Total System Travel Time for LLF: 373939.82 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 119409.35 ± 0.00
+Average Runtime: 16.87601 ± 0.27720 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_med_SCALE.txt SCALE  
+Average Total System Travel Time for SO: 119409.35 ± 0.00
+Average SCALE flow assigned: 74999.25 ± 0.00
+Average selfish flow assigned: 74999.25 ± 0.00       
+Average Total System Travel Time for SCALE: 119409.35 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 119409.35 ± 0.00
+Average Runtime: 17.01263 ± 0.28932 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_med_ASCALE.txt ASCALE
+Average Total System Travel Time for SO: 258127.52 ± 42049.57
+Average ASCALE flow assigned: 74999.25 ± 0.00        
+Average selfish flow assigned: 74999.25 ± 0.00       
+Average Total System Travel Time for ASCALE: 120788.30 ± 420.10
+Average Total System Travel Time for Selfish Best Response: 119409.35 ± 0.00
+Average Runtime: 17.24920 ± 0.32411 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_MED_ALOOF.txt ALOOF  
+Average Total System Travel Time for SO: 58676.45 ± 24705.01
+Average ALOOF flow assigned: 74999.25 ± 0.00
+Average selfish flow assigned: 74999.25 ± 0.00       
+Average Total System Travel Time for ALOOF: 119409.35 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 119409.35 ± 0.00
+Average Runtime: 16.86035 ± 0.26844 seconds
+
+AUS HIGH
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_high_tasr.txt TASR   
+Average Total System Travel Time for SO: 1390423.30 ± 0.00
+Average TASR flow assigned: 149998.50 ± 0.00
+Average selfish flow assigned: 149998.50 ± 0.00      
+Average Total System Travel Time for TASR: 365877.25 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 401133.49 ± 0.00
+Average Runtime: 17.94908 ± 0.43738 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_high_cc.txt CC       
+Average Total System Travel Time for SO: 365877.25 ± 0.00
+Average CC flow assigned: 149998.50 ± 0.00
+Average selfish flow assigned: 149998.50 ± 0.00      
+Average Total System Travel Time for CC: 365877.25 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 376163.09 ± 0.00
+Average Runtime: 17.93724 ± 0.43165 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_high_llf.txt LLF     
+Average Total System Travel Time for SO: 365877.25 ± 0.00
+Average LLF flow assigned: 149998.50 ± 0.00
+Average selfish flow assigned: 149998.50 ± 0.00      
+Average Total System Travel Time for LLF: 1256181.19 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 401133.49 ± 0.00
+Average Runtime: 17.34867 ± 0.28261 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_high_SCALE.txt SCALE 
+Average Total System Travel Time for SO: 365877.25 ± 0.00
+Average SCALE flow assigned: 149998.50 ± 0.00        
+Average selfish flow assigned: 149998.50 ± 0.00      
+Average Total System Travel Time for SCALE: 371305.82 ± 11136.52
+Average Total System Travel Time for Selfish Best Response: 401133.49 ± 0.00
+Average Runtime: 17.20328 ± 0.27002 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_high_ASCALE.txt ASCALE
+Average Total System Travel Time for SO: 2314066.65 ± 834994.92
+Average ASCALE flow assigned: 149998.50 ± 0.00       
+Average selfish flow assigned: 149998.50 ± 0.00      
+Average Total System Travel Time for ASCALE: 369930.72 ± 11629.40
+Average Total System Travel Time for Selfish Best Response: 401133.49 ± 0.00
+Average Runtime: 17.28063 ± 0.26509 seconds
+
+PS C:\Users\doreb\TASR> python parse_file_output.py Results_Files/aus_Sc_high_ALOOF.txt ALOOF  
+Average Total System Travel Time for SO: 124638.85 ± 59504.96
+Average ALOOF flow assigned: 149998.50 ± 0.00        
+Average selfish flow assigned: 149998.50 ± 0.00      
+Average Total System Travel Time for ALOOF: 393007.21 ± 12715.16
+Average Total System Travel Time for Selfish Best Response: 401133.49 ± 0.00
+Average Runtime: 18.28812 ± 9.93242 seconds

@@ -1,0 +1,679 @@
+SIOUX FALLS
+
+TASR
+LOW
+Average Total System Travel Time for SO: 582973501.87 ± 0.00
+Average TASR flow assigned: 964066.05 ± 4410.44
+Average selfish flow assigned: 993682.67 ± 0.00
+Average Total System Travel Time for TASR: 804159568.66 ± 41105698.99
+Average Total System Travel Time for Selfish Best Response: 1755578288.91 ± 0.00
+Average Runtime: 3.84519 ± 0.31390 seconds
+Average Ultimate Total System Travel Time for TASR: 164875600744.78 ± 8724085477.46
+
+MED
+Average Total System Travel Time for SO: 139045382901.32 ± 0.00
+Average TASR flow assigned: 2894739.78 ± 12937.87
+Average selfish flow assigned: 2981048.00 ± 0.00
+Average Total System Travel Time for TASR: 158553580213.06 ± 6436095886.48
+Average Total System Travel Time for Selfish Best Response: 272700655457.76 ± 0.00
+Average Runtime: 3.79983 ± 0.25186 seconds
+Average Ultimate Total System Travel Time for TASR: 31768163609741.34 ± 1365252087359.36
+
+HIGH
+Average Total System Travel Time for SO: 4448462379269.08 ± 0.00
+Average TASR flow assigned: 5748316.43 ± 28881.05
+Average selfish flow assigned: 5962095.99 ± 0.00
+Average Total System Travel Time for TASR: 4620420766981.41 ± 181194288738.82
+Average Total System Travel Time for Selfish Best Response: 7265335577965.25 ± 0.00
+Average Runtime: 3.74191 ± 0.08128 seconds
+Average Ultimate Total System Travel Time for TASR: 914154918410235.00 ± 39360792665360.16
+
+CC
+LOW
+Average Total System Travel Time for SO: 582973501.87 ± 0.00
+Average CC flow assigned: 993682.67 ± 0.00
+Average selfish flow assigned: 993682.67 ± 0.00
+Average Total System Travel Time for CC: 582973501.87 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 582959193.34 ± 0.00
+Average Runtime: 3.69513 ± 0.06050 seconds
+Average Ultimate Total System Travel Time for CC: 582973501.87 ± 0.00
+
+MED
+Average Total System Travel Time for SO: 139045382901.32 ± 0.00
+Average CC flow assigned: 2981048.00 ± 0.00
+Average selfish flow assigned: 2981048.00 ± 0.00
+Average Total System Travel Time for CC: 139045382901.32 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 139045745395.75 ± 0.00
+Average Runtime: 3.70684 ± 0.09174 seconds
+Average Ultimate Total System Travel Time for CC: 139045382901.32 ± 0.00
+
+HIGH
+Average Total System Travel Time for SO: 4448462379269.08 ± 0.00
+Average CC flow assigned: 5962095.99 ± 0.00
+Average selfish flow assigned: 5962095.99 ± 0.00
+Average Total System Travel Time for CC: 4448462379269.08 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 4448469564273.84 ± 0.00
+Average Runtime: 3.70840 ± 0.07374 seconds
+Average Ultimate Total System Travel Time for CC: 4448462379269.08 ± 0.00
+
+LLF
+LOW
+Average Total System Travel Time for SO: 582973501.87 ± 0.00
+Average LLF flow assigned: 954642.12 ± 3992.85
+Average selfish flow assigned: 993682.67 ± 0.00
+Average Total System Travel Time for LLF: 611764754.87 ± 21762648.06
+Average Total System Travel Time for Selfish Best Response: 1755578288.91 ± 0.00
+Average Runtime: 3.72840 ± 0.06216 seconds
+Average Ultimate Total System Travel Time for LLF: 119349158775.85 ± 4226547905.10
+
+MED
+Average Total System Travel Time for SO: 139045382901.32 ± 0.00
+Average LLF flow assigned: 2864907.69 ± 11404.48
+Average selfish flow assigned: 2981048.00 ± 0.00
+Average Total System Travel Time for LLF: 135033269162.01 ± 3771775860.88
+Average Total System Travel Time for Selfish Best Response: 272700655457.76 ± 0.00
+Average Runtime: 3.75182 ± 0.16431 seconds
+Average Ultimate Total System Travel Time for LLF: 25973532388842.00 ± 709678804520.52
+
+HIGH
+Average Total System Travel Time for SO: 4448462379269.08 ± 0.00
+Average LLF flow assigned: 5690532.70 ± 26719.36
+Average selfish flow assigned: 5962095.99 ± 0.00
+Average Total System Travel Time for LLF: 4094171053276.15 ± 126199578236.60
+Average Total System Travel Time for Selfish Best Response: 7265335577965.25 ± 0.00
+Average Runtime: 3.72830 ± 0.06519 seconds
+Average Ultimate Total System Travel Time for LLF: 782064170859990.12 ± 22854584314914.30
+
+SCALE
+LOW
+Average Total System Travel Time for SO: 582973501.87 ± 0.00
+Average SCALE flow assigned: 787046.57 ± 6325.40
+Average selfish flow assigned: 993682.67 ± 0.00
+Average Total System Travel Time for SCALE: 206974287.73 ± 11913662.01
+Average Total System Travel Time for Selfish Best Response: 1755578288.91 ± 0.00
+Average Runtime: 3.73775 ± 0.09550 seconds
+Average Ultimate Total System Travel Time for SCALE: 39547162028.77 ± 2272540184.22
+
+MED
+Average Total System Travel Time for SO: 139045382901.32 ± 0.00
+Average SCALE flow assigned: 2354680.13 ± 18392.58
+Average selfish flow assigned: 2981048.00 ± 0.00
+Average Total System Travel Time for SCALE: 43370046148.43 ± 1600876691.41
+Average Total System Travel Time for Selfish Best Response: 272700655457.76 ± 0.00
+Average Runtime: 3.73757 ± 0.06320 seconds
+Average Ultimate Total System Travel Time for SCALE: 8167280621224.02 ± 306992969377.16
+
+HIGH
+Average Total System Travel Time for SO: 4448462379269.08 ± 0.00
+Average SCALE flow assigned: 4674886.99 ± 37073.76
+Average selfish flow assigned: 5962095.99 ± 0.00
+Average Total System Travel Time for SCALE: 1299570112670.39 ± 43616098522.20
+Average Total System Travel Time for Selfish Best Response: 7265335577965.25 ± 0.00
+Average Runtime: 3.74690 ± 0.07115 seconds
+Average Ultimate Total System Travel Time for SCALE: 241618697847957.69 ± 7950541618071.45
+
+ASCALE
+LOW
+Average Total System Travel Time for SO: 7946949703.76 ± 181438293.31
+Average ASCALE flow assigned: 841761.83 ± 5639.30
+Average selfish flow assigned: 993682.67 ± 0.00
+Average Total System Travel Time for ASCALE: 289604949.41 ± 11179858.58
+Average Total System Travel Time for Selfish Best Response: 1755578288.91 ± 0.00
+Average Runtime: 3.74515 ± 0.16789 seconds
+Average Ultimate Total System Travel Time for ASCALE: 54869166068.38 ± 2129600042.82
+
+MED
+Average Total System Travel Time for SO: 1928472859149.46 ± 48193466345.65
+Average ASCALE flow assigned: 2518310.55 ± 17896.50
+Average selfish flow assigned: 2981048.00 ± 0.00
+Average Total System Travel Time for ASCALE: 64909179666.17 ± 2275483952.16
+Average Total System Travel Time for Selfish Best Response: 272700655457.76 ± 0.00
+Average Runtime: 3.72682 ± 0.05987 seconds
+Average Ultimate Total System Travel Time for ASCALE: 12216218345441.05 ± 447263399151.76
+
+HIGH
+Average Total System Travel Time for SO: 61354650385755.89 ± 1464286117172.01
+Average ASCALE flow assigned: 5020494.05 ± 36711.77
+Average selfish flow assigned: 5962095.99 ± 0.00
+Average Total System Travel Time for ASCALE: 1976767343223.06 ± 64900328878.31
+Average Total System Travel Time for Selfish Best Response: 7265335577965.25 ± 0.00
+Average Runtime: 3.74332 ± 0.14797 seconds
+Average Ultimate Total System Travel Time for ASCALE: 367886280141786.06 ± 11180985178278.55
+
+ALOOF
+LOW
+Average Total System Travel Time for SO: 24140251.32 ± 1978489.12
+Average ALOOF flow assigned: 674335.31 ± 7672.26
+Average selfish flow assigned: 993682.67 ± 0.00
+Average Total System Travel Time for ALOOF: 143890205.50 ± 15164506.52
+Average Total System Travel Time for Selfish Best Response: 1755578288.91 ± 0.00
+Average Runtime: 3.73974 ± 0.09935 seconds
+Average Ultimate Total System Travel Time for ALOOF: 29200658955.31 ± 3111023429.66
+
+MED
+Average Total System Travel Time for SO: 4477997374.00 ± 518504380.35
+Average ALOOF flow assigned: 2011744.60 ± 26661.37
+Average selfish flow assigned: 2981048.00 ± 0.00
+Average Total System Travel Time for ALOOF: 24151771801.97 ± 1715691135.72
+Average Total System Travel Time for Selfish Best Response: 272700655457.76 ± 0.00
+Average Runtime: 3.73759 ± 0.06829 seconds
+Average Ultimate Total System Travel Time for ALOOF: 4803085676122.92 ± 363076341277.64
+
+HIGH
+Average Total System Travel Time for SO: 142283050526.30 ± 14183620705.37
+Average ALOOF flow assigned: 4014115.35 ± 49964.35
+Average selfish flow assigned: 5962095.99 ± 0.00
+Average Total System Travel Time for ALOOF: 683135547085.84 ± 39647338924.22
+Average Total System Travel Time for Selfish Best Response: 7265335577965.25 ± 0.00
+Average Runtime: 3.76833 ± 0.24951 seconds
+Average Ultimate Total System Travel Time for ALOOF: 132195865616425.94 ± 8272664382334.77
+
+ANAHEIM
+
+TASR
+LOW
+Average Total System Travel Time for SO: 440492.48 ± 0.00
+Average TASR flow assigned: 108465.75 ± 1292.63
+Average selfish flow assigned: 114300.00 ± 0.00
+Average Total System Travel Time for TASR: 411525.63 ± 7675.34
+Average Total System Travel Time for Selfish Best Response: 447715.19 ± 0.00
+Average Runtime: 0.49000 ± 0.01319 seconds
+Average Ultimate Total System Travel Time for TASR: 1278708.75 ± 42024.78
+
+MED
+Average Total System Travel Time for SO: 4550752.71 ± 0.00
+Average TASR flow assigned: 320169.38 ± 5356.45
+Average selfish flow assigned: 342900.00 ± 0.00
+Average Total System Travel Time for TASR: 2753806.89 ± 500981.44
+Average Total System Travel Time for Selfish Best Response: 4723159.70 ± 0.00
+Average Runtime: 0.48922 ± 0.00805 seconds
+Average Ultimate Total System Travel Time for TASR: 14484351.90 ± 3846892.96
+
+HIGH
+Average Total System Travel Time for SO: 107190741.65 ± 0.00
+Average TASR flow assigned: 629862.75 ± 11849.53
+Average selfish flow assigned: 685800.00 ± 0.00
+Average Total System Travel Time for TASR: 42078730.33 ± 16899574.15
+Average Total System Travel Time for Selfish Best Response: 119938689.18 ± 0.00
+Average Runtime: 0.48490 ± 0.00841 seconds
+Average Ultimate Total System Travel Time for TASR: 277751333.64 ± 132265504.09
+
+CC
+LOW
+Average Total System Travel Time for SO: 440492.48 ± 0.00
+Average CC flow assigned: 114300.00 ± 0.00
+Average selfish flow assigned: 114300.00 ± 0.00
+Average Total System Travel Time for CC: 440492.48 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 440492.48 ± 0.00
+Average Runtime: 0.48280 ± 0.00770 seconds
+Average Ultimate Total System Travel Time for CC: 440492.48 ± 0.00
+
+MED
+Average Total System Travel Time for SO: 4550752.71 ± 0.00
+Average CC flow assigned: 342900.00 ± 0.00
+Average selfish flow assigned: 342900.00 ± 0.00
+Average Total System Travel Time for CC: 4550752.71 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 4550752.71 ± 0.00
+Average Runtime: 0.48098 ± 0.00789 seconds
+Average Ultimate Total System Travel Time for CC: 4550752.71 ± 0.00
+
+HIGH
+Average Total System Travel Time for SO: 107190741.65 ± 0.00
+Average CC flow assigned: 685800.00 ± 0.00
+Average selfish flow assigned: 685800.00 ± 0.00
+Average Total System Travel Time for CC: 107190741.65 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 107190741.65 ± 0.00
+Average Runtime: 0.48310 ± 0.00823 seconds
+Average Ultimate Total System Travel Time for CC: 107190741.65 ± 0.00
+
+LLF
+LOW
+Average Total System Travel Time for SO: 440492.48 ± 0.00
+Average LLF flow assigned: 110442.38 ± 1051.05
+Average selfish flow assigned: 114300.00 ± 0.00
+Average Total System Travel Time for LLF: 422152.15 ± 6466.74
+Average Total System Travel Time for Selfish Best Response: 447715.19 ± 0.00
+Average Runtime: 0.48874 ± 0.00721 seconds
+Average Ultimate Total System Travel Time for LLF: 1341177.02 ± 32537.46
+
+MED
+Average Total System Travel Time for SO: 4550752.71 ± 0.00
+Average LLF flow assigned: 327469.50 ± 3942.57
+Average selfish flow assigned: 342900.00 ± 0.00
+Average Total System Travel Time for LLF: 3366184.36 ± 495594.42
+Average Total System Travel Time for Selfish Best Response: 4723159.70 ± 0.00
+Average Runtime: 0.48880 ± 0.00946 seconds
+Average Ultimate Total System Travel Time for LLF: 19153129.15 ± 3863642.94
+
+HIGH
+Average Total System Travel Time for SO: 107190741.65 ± 0.00
+Average LLF flow assigned: 645873.75 ± 8485.89
+Average selfish flow assigned: 685800.00 ± 0.00
+Average Total System Travel Time for LLF: 53751356.70 ± 16058639.62
+Average Total System Travel Time for Selfish Best Response: 119938689.18 ± 0.00
+Average Runtime: 0.48709 ± 0.00853 seconds
+Average Ultimate Total System Travel Time for LLF: 365796676.92 ± 127464513.45
+
+SCALE
+LOW
+Average Total System Travel Time for SO: 440492.48 ± 0.00
+Average SCALE flow assigned: 93258.00 ± 1336.42
+Average selfish flow assigned: 114300.00 ± 0.00
+Average Total System Travel Time for SCALE: 350721.14 ± 7238.73
+Average Total System Travel Time for Selfish Best Response: 447715.19 ± 0.00
+Average Runtime: 0.48861 ± 0.00879 seconds
+Average Ultimate Total System Travel Time for SCALE: 1056673.43 ± 30133.30
+
+MED
+Average Total System Travel Time for SO: 4550752.71 ± 0.00
+Average SCALE flow assigned: 277627.50 ± 4470.82
+Average selfish flow assigned: 342900.00 ± 0.00
+Average Total System Travel Time for SCALE: 1617120.68 ± 164303.21
+Average Total System Travel Time for Selfish Best Response: 4723159.70 ± 0.00
+Average Runtime: 0.48955 ± 0.00772 seconds
+Average Ultimate Total System Travel Time for SCALE: 6872412.75 ± 1259225.45
+
+HIGH
+Average Total System Travel Time for SO: 107190741.65 ± 0.00
+Average SCALE flow assigned: 551292.75 ± 11005.96
+Average selfish flow assigned: 685800.00 ± 0.00
+Average Total System Travel Time for SCALE: 19339503.29 ± 5037522.91
+Average Total System Travel Time for Selfish Best Response: 119938689.18 ± 0.00
+Average Runtime: 0.48818 ± 0.00782 seconds
+Average Ultimate Total System Travel Time for SCALE: 119077415.53 ± 38373909.36
+
+ASCALE
+LOW
+Average Total System Travel Time for SO: 7111197.95 ± 1808063.61
+Average ASCALE flow assigned: 98119.52 ± 1356.02
+Average selfish flow assigned: 114300.00 ± 0.00
+Average Total System Travel Time for ASCALE: 374093.97 ± 5792.40
+Average Total System Travel Time for Selfish Best Response: 446876.85 ± 0.00
+Average Runtime: 0.89224 ± 0.05580 seconds
+Average Ultimate Total System Travel Time for ASCALE: 1138006.88 ± 24991.72
+
+MED
+Average Total System Travel Time for SO: 41291413.50 ± 5463186.21
+Average ASCALE flow assigned: 290139.89 ± 3905.73
+Average selfish flow assigned: 342900.00 ± 0.00
+Average Total System Travel Time for ASCALE: 1864287.15 ± 153712.27
+Average Total System Travel Time for Selfish Best Response: 4159800.34 ± 0.00
+Average Runtime: 2.62365 ± 0.21023 seconds
+Average Ultimate Total System Travel Time for ASCALE: 8437829.12 ± 1231449.12
+
+HIGH
+Average Total System Travel Time for SO: 1245743525.83 ± 163422437.95
+Average ASCALE flow assigned: 582666.81 ± 8438.37
+Average selfish flow assigned: 685800.00 ± 0.00
+Average Total System Travel Time for ASCALE: 25870585.71 ± 5484725.67
+Average Total System Travel Time for Selfish Best Response: 92601734.96 ± 0.00
+Average Runtime: 3.71333 ± 0.34562 seconds
+Average Ultimate Total System Travel Time for ASCALE: 171591064.14 ± 43556891.94
+
+ALOOF
+LOW
+Average Total System Travel Time for SO: 213232.03 ± 10098.92
+Average ALOOF flow assigned: 84708.00 ± 1812.82
+Average selfish flow assigned: 114300.00 ± 0.00
+Average Total System Travel Time for ALOOF: 319966.49 ± 7676.38
+Average Total System Travel Time for Selfish Best Response: 446876.85 ± 0.00
+Average Runtime: 0.84512 ± 0.03241 seconds
+Average Ultimate Total System Travel Time for ALOOF: 957920.42 ± 25737.42
+
+MED
+Average Total System Travel Time for SO: 774057.27 ± 88366.69
+Average ALOOF flow assigned: 255418.88 ± 5270.22
+Average selfish flow assigned: 342900.00 ± 0.00
+Average Total System Travel Time for ALOOF: 1356716.27 ± 86923.74
+Average Total System Travel Time for Selfish Best Response: 4159800.34 ± 0.00
+Average Runtime: 1.60688 ± 0.17628 seconds
+Average Ultimate Total System Travel Time for ALOOF: 5553427.19 ± 678238.22
+
+HIGH
+Average Total System Travel Time for SO: 4995285.11 ± 2144088.47
+Average ALOOF flow assigned: 511336.93 ± 10454.13
+Average selfish flow assigned: 685800.00 ± 0.00
+Average Total System Travel Time for ALOOF: 14700033.15 ± 2765228.96
+Average Total System Travel Time for Selfish Best Response: 92601734.96 ± 0.00
+Average Runtime: 3.19644 ± 0.75633 seconds
+Average Ultimate Total System Travel Time for ALOOF: 94333022.05 ± 21825806.21
+
+CHICAGO SKETCH
+
+TASR
+LOW
+Average Total System Travel Time for SO: 21265561.87 ± 0.00
+Average TASR flow assigned: 3149097.81 ± 17536.40
+Average selfish flow assigned: 5996375.00 ± 0.00
+Average Total System Travel Time for TASR: 335195944696.52 ± 19116237843.97
+Average Total System Travel Time for Selfish Best Response: 10260126761132.65 ± 0.00
+Average Runtime: 8.73655 ± 0.04925 seconds
+Average Ultimate Total System Travel Time for TASR: 131881767411999.48 ± 8775884244262.78
+
+MED
+Average Total System Travel Time for SO: 3768387034.92 ± 0.00
+Average TASR flow assigned: 9579463.12 ± 49431.36
+Average selfish flow assigned: 17989125.00 ± 0.00
+Average Total System Travel Time for TASR: 73742243620582.69 ± 4424938041841.67
+Average Total System Travel Time for Selfish Best Response: 2251179725083809.25 ± 0.00
+Average Runtime: 8.74198 ± 0.05119 seconds
+Average Ultimate Total System Travel Time for TASR: 24792601592524144.00 ± 1834558586196763.50
+
+HIGH
+Average Total System Travel Time for SO: 120063705930.10 ± 0.00
+Average TASR flow assigned: 19211401.88 ± 99861.12
+Average selfish flow assigned: 35978250.00 ± 0.00
+Average Total System Travel Time for TASR: 3315089723435326.00 ± 265401704931263.81
+Average Total System Travel Time for Selfish Best Response: 102936867807135808.00 ± 0.00
+Average Runtime: 8.75302 ± 0.10037 seconds
+Average Ultimate Total System Travel Time for TASR: 839588007277197440.00 ± 54253426023092352.00
+
+CC
+LOW
+Average Total System Travel Time for SO: 21265561.87 ± 0.00
+Average CC flow assigned: 5996375.00 ± 0.00
+Average selfish flow assigned: 5996375.00 ± 0.00
+Average Total System Travel Time for CC: 21265561.87 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 21265561.87 ± 0.00
+Average Runtime: 8.00838 ± 0.06677 seconds
+Average Ultimate Total System Travel Time for CC: 21265561.87 ± 0.00
+
+MED
+Average Total System Travel Time for SO: 3768387034.92 ± 0.00
+Average CC flow assigned: 17989125.00 ± 0.00
+Average selfish flow assigned: 17989125.00 ± 0.00
+Average Total System Travel Time for CC: 3768387034.92 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 3768387034.92 ± 0.00
+Average Runtime: 8.00039 ± 0.04246 seconds
+Average Ultimate Total System Travel Time for CC: 3768387034.92 ± 0.00
+
+HIGH
+Average Total System Travel Time for SO: 120063705930.10 ± 0.00
+Average CC flow assigned: 35978250.00 ± 0.00
+Average selfish flow assigned: 35978250.00 ± 0.00
+Average Total System Travel Time for CC: 120063705930.10 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 120063705930.10 ± 0.00
+Average Runtime: 8.00324 ± 0.08061 seconds
+Average Ultimate Total System Travel Time for CC: 120063705930.10 ± 0.00
+
+LLF
+LOW
+Average Total System Travel Time for SO: 21265561.87 ± 0.00
+Average LLF flow assigned: 3086977.81 ± 15116.73
+Average selfish flow assigned: 5996375.00 ± 0.00
+Average Total System Travel Time for LLF: 333872729689.05 ± 20519369932.27
+Average Total System Travel Time for Selfish Best Response: 10260126761132.65 ± 0.00
+Average Runtime: 8.72854 ± 0.05208 seconds
+Average Ultimate Total System Travel Time for LLF: 131332428485548.69 ± 9311395090340.33
+
+MED
+Average Total System Travel Time for SO: 3768387034.92 ± 0.00
+Average LLF flow assigned: 9257469.38 ± 47954.98
+Average selfish flow assigned: 17989125.00 ± 0.00
+Average Total System Travel Time for LLF: 72413452253724.78 ± 4264374330448.81
+Average Total System Travel Time for Selfish Best Response: 2251179725083809.25 ± 0.00
+Average Runtime: 8.74190 ± 0.04439 seconds
+Average Ultimate Total System Travel Time for LLF: 24258332508438692.00 ± 1729319160439378.25
+
+HIGH
+Average Total System Travel Time for SO: 120063705930.10 ± 0.00
+Average LLF flow assigned: 18524152.50 ± 121236.65
+Average selfish flow assigned: 35978250.00 ± 0.00
+Average Total System Travel Time for LLF: 3383228770579677.00 ± 339218195745509.69
+Average Total System Travel Time for Selfish Best Response: 102936867807135808.00 ± 0.00
+Average Runtime: 8.75518 ± 0.05152 seconds
+Average Ultimate Total System Travel Time for LLF: 842713654062231424.00 ± 58107843344050048.00
+
+SCALE
+LOW
+Average Total System Travel Time for SO: 21265561.87 ± 0.00
+Average SCALE flow assigned: 3016275.62 ± 15580.63
+Average selfish flow assigned: 5996375.00 ± 0.00
+Average Total System Travel Time for SCALE: 323233668821.47 ± 20738068069.50
+Average Total System Travel Time for Selfish Best Response: 10260126761132.65 ± 0.00
+Average Runtime: 8.73940 ± 0.08117 seconds
+Average Ultimate Total System Travel Time for SCALE: 126972275068050.59 ± 9262583226364.40
+
+MED
+Average Total System Travel Time for SO: 3768387034.92 ± 0.00
+Average SCALE flow assigned: 9052965.00 ± 55767.95
+Average selfish flow assigned: 17989125.00 ± 0.00
+Average Total System Travel Time for SCALE: 71511959858620.08 ± 4138440941488.97
+Average Total System Travel Time for Selfish Best Response: 2251179725083809.25 ± 0.00
+Average Runtime: 8.92156 ± 1.77714 seconds
+Average Ultimate Total System Travel Time for SCALE: 23929945787030820.00 ± 1557922583167408.75
+
+HIGH
+Average Total System Travel Time for SO: 120063705930.10 ± 0.00
+Average SCALE flow assigned: 18108420.00 ± 101724.56
+Average selfish flow assigned: 35978250.00 ± 0.00
+Average Total System Travel Time for SCALE: 3281218392708630.00 ± 291441026234021.50
+Average Total System Travel Time for Selfish Best Response: 102936867807135808.00 ± 0.00
+Average Runtime: 8.76191 ± 0.14688 seconds
+Average Ultimate Total System Travel Time for SCALE: 813700737321877120.00 ± 50587032567631024.00
+
+ASCALE
+LOW
+Average Total System Travel Time for SO: 24644770.36 ± 371417.56
+Average ASCALE flow assigned: 3014860.32 ± 18786.83
+Average selfish flow assigned: 5996375.00 ± 0.00
+Average Total System Travel Time for ASCALE: 239663921197.57 ± 13798227110.96
+Average Total System Travel Time for Selfish Best Response: 7503216281089.37 ± 0.00
+Average Runtime: 63.20748 ± 0.83794 seconds
+Average Ultimate Total System Travel Time for ASCALE: 91604661055032.72 ± 6029630089302.14
+
+MED
+Average Total System Travel Time for SO: 3331735014.19 ± 75196932.30
+Average ASCALE flow assigned: 9053488.03 ± 45337.86
+Average selfish flow assigned: 17989125.00 ± 0.00
+Average Total System Travel Time for ASCALE: 95908304497250.80 ± 8139250524057.70
+Average Total System Travel Time for Selfish Best Response: 3040451260236647.00 ± 0.00
+Average Runtime: 77.21629 ± 1.26719 seconds
+Average Ultimate Total System Travel Time for ASCALE: 34853380286877544.00 ± 2772710989174238.00
+
+HIGH
+Average Total System Travel Time for SO: 105891768478.72 ± 2401284996.91
+Average ASCALE flow assigned: 18109217.62 ± 102611.50
+Average selfish flow assigned: 35978250.00 ± 0.00
+Average Total System Travel Time for ASCALE: 2151132335538244.25 ± 127320005227606.92
+Average Total System Travel Time for Selfish Best Response: 67685527504506552.00 ± 0.00
+Average Runtime: 78.84004 ± 1.18982 seconds
+Average Ultimate Total System Travel Time for ASCALE: 812357500142233728.00 ± 52516469376211792.00
+
+ALOOF
+LOW
+Average Total System Travel Time for SO: 3003470.94 ± 54274.12
+Average ALOOF flow assigned: 3039924.92 ± 17853.74
+Average selfish flow assigned: 5996375.00 ± 0.00
+Average Total System Travel Time for ALOOF: 239614096942.19 ± 14688853734.13
+Average Total System Travel Time for Selfish Best Response: 7503216281089.37 ± 0.00
+Average Runtime: 38.51555 ± 1.61989 seconds
+Average Ultimate Total System Travel Time for ALOOF: 91486510068312.09 ± 6359936160976.30
+
+MED
+Average Total System Travel Time for SO: 17951238.02 ± 896255.35
+Average ALOOF flow assigned: 9120952.26 ± 56319.32
+Average selfish flow assigned: 17989125.00 ± 0.00
+Average Total System Travel Time for ALOOF: 97083532790922.45 ± 8029211804889.86
+Average Total System Travel Time for Selfish Best Response: 3040451260236647.00 ± 0.00
+Average Runtime: 75.36125 ± 1.07278 seconds
+Average Ultimate Total System Travel Time for ALOOF: 35301840064580048.00 ± 2771724157702245.50
+
+HIGH
+Average Total System Travel Time for SO: 280970736.65 ± 28519371.50
+Average ALOOF flow assigned: 18252832.30 ± 81814.85
+Average selfish flow assigned: 35978250.00 ± 0.00
+Average Total System Travel Time for ALOOF: 2207266394845636.50 ± 136955422692630.30
+Average Total System Travel Time for Selfish Best Response: 67685527504506552.00 ± 0.00
+Average Runtime: 77.52874 ± 0.70796 seconds
+Average Ultimate Total System Travel Time for ALOOF: 833221252902127232.00 ± 57249692839691032.00
+
+AUSTIN
+
+TASR
+LOW
+Average Total System Travel Time for SO: 1476963546863.02 ± 0.00
+Average TASR flow assigned: 20779125.27 ± 106133.01
+Average selfish flow assigned: 22907104.00 ± 0.00
+Average Total System Travel Time for TASR: 60254505786.38 ± 24234277461.47
+Average Total System Travel Time for Selfish Best Response: 48657261766.00 ± 0.00
+Average Runtime: 129.47174 ± 7.03187 seconds
+Average Ultimate Total System Travel Time for TASR: 1072232298968.12 ± 669409555405.85
+
+MED
+Average Total System Travel Time for SO: 358881423098443.44 ± 0.00
+Average TASR flow assigned: 62766565.37 ± 351528.24
+Average selfish flow assigned: 68721312.00 ± 0.00
+Average Total System Travel Time for TASR: 20014125095017.79 ± 6150019521522.28
+Average Total System Travel Time for Selfish Best Response: 107159051634652.34 ± 0.00
+Average Runtime: 128.24407 ± 3.88499 seconds
+Average Ultimate Total System Travel Time for TASR: 283120883459146.62 ± 174718337264698.62
+
+HIGH
+Average Total System Travel Time for SO: 11484197769604214.00 ± 0.00
+Average TASR flow assigned: 126211063.78 ± 539273.28
+Average selfish flow assigned: 137442624.00 ± 0.00
+Average Total System Travel Time for TASR: 2095849182147911.25 ± 545213604220665.00
+Average Total System Travel Time for Selfish Best Response: 25322630095797620.00 ± 4.00
+Average Runtime: 128.59871 ± 5.78801 seconds
+Average Ultimate Total System Travel Time for TASR: 26345177841799792.00 ± 9941216103503210.00
+
+CC
+LOW
+Average Total System Travel Time for SO: 1476963546863.02 ± 0.00
+Average CC flow assigned: 22907104.00 ± 0.00
+Average selfish flow assigned: 22907104.00 ± 0.00
+Average Total System Travel Time for CC: 1476963546863.02 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 1476963546863.02 ± 0.00
+Average Runtime: 113.15083 ± 2.21966 seconds
+Average Ultimate Total System Travel Time for CC: 1476963546863.02 ± 0.00
+
+MED
+Average Total System Travel Time for SO: 358881423098443.44 ± 0.00
+Average CC flow assigned: 68721312.00 ± 0.00
+Average selfish flow assigned: 68721312.00 ± 0.00
+Average Total System Travel Time for CC: 358881423098443.44 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 358881423098443.44 ± 0.00
+Average Runtime: 113.38804 ± 1.17564 seconds
+Average Ultimate Total System Travel Time for CC: 358881423098443.44 ± 0.00
+
+HIGH
+Average Total System Travel Time for SO: 11484197769604214.00 ± 0.00
+Average CC flow assigned: 137442624.00 ± 0.00
+Average selfish flow assigned: 137442624.00 ± 0.00
+Average Total System Travel Time for CC: 11484197769604214.00 ± 0.00
+Average Total System Travel Time for Selfish Best Response: 11484197769604214.00 ± 0.00
+Average Runtime: 114.40518 ± 1.60968 seconds
+Average Ultimate Total System Travel Time for CC: 11484197769604214.00 ± 0.00
+
+LLF
+LOW
+Average Total System Travel Time for SO: 1476963546863.02 ± 0.00
+Average LLF flow assigned: 20995142.35 ± 106977.44
+Average selfish flow assigned: 22907104.00 ± 0.00
+Average Total System Travel Time for LLF: 26158993380.55 ± 8983500528.15
+Average Total System Travel Time for Selfish Best Response: 48657261766.00 ± 0.00
+Average Runtime: 120.76576 ± 1.16726 seconds
+Average Ultimate Total System Travel Time for LLF: 385240669859.94 ± 228667467800.48
+
+MED
+Average Total System Travel Time for SO: 358881423098443.44 ± 0.00
+Average LLF flow assigned: 62946204.41 ± 346284.50
+Average selfish flow assigned: 68721312.00 ± 0.00
+Average Total System Travel Time for LLF: 13224851526417.18 ± 3678122331276.74
+Average Total System Travel Time for Selfish Best Response: 107159051634652.34 ± 0.00
+Average Runtime: 121.36129 ± 1.10989 seconds
+Average Ultimate Total System Travel Time for LLF: 153786045589394.31 ± 86423488007203.44
+
+HIGH
+Average Total System Travel Time for SO: 11484197769604214.00 ± 0.00
+Average LLF flow assigned: 125809044.89 ± 597058.28
+Average selfish flow assigned: 137442624.00 ± 0.00
+Average Total System Travel Time for LLF: 1637221131780826.50 ± 422320982011527.25
+Average Total System Travel Time for Selfish Best Response: 25322630095797620.00 ± 4.00
+Average Runtime: 130.68534 ± 4.26038 seconds
+Average Ultimate Total System Travel Time for LLF: 17590070824124290.00 ± 5573698585830425.00
+
+SCALE
+LOW
+Average Total System Travel Time for SO: 1476963546863.02 ± 0.00
+Average SCALE flow assigned: 18047738.35 ± 106895.74
+Average selfish flow assigned: 22907104.00 ± 0.00
+Average Total System Travel Time for SCALE: 11505928759.35 ± 3456818163.27
+Average Total System Travel Time for Selfish Best Response: 48657261766.00 ± 0.00
+Average Runtime: 129.19513 ± 7.22586 seconds
+Average Ultimate Total System Travel Time for SCALE: 140071977099.15 ± 76354966072.82
+
+MED
+Average Total System Travel Time for SO: 358881423098443.44 ± 0.00
+Average SCALE flow assigned: 54580210.41 ± 307322.04
+Average selfish flow assigned: 68721312.00 ± 0.00
+Average Total System Travel Time for SCALE: 9794465262850.35 ± 2085565240734.02
+Average Total System Travel Time for Selfish Best Response: 107159051634652.34 ± 0.00
+Average Runtime: 122.19929 ± 1.53082 seconds
+Average Ultimate Total System Travel Time for SCALE: 93857518745146.86 ± 35480741805115.50
+
+HIGH
+Average Total System Travel Time for SO: 11484197769604214.00 ± 0.00
+Average SCALE flow assigned: 109641775.00 ± 621849.86
+Average selfish flow assigned: 137442624.00 ± 0.00
+Average Total System Travel Time for SCALE: 1519182363965060.50 ± 364410153049544.56
+Average Total System Travel Time for Selfish Best Response: 25322630095797620.00 ± 4.00
+Average Runtime: 122.40884 ± 2.19722 seconds
+Average Ultimate Total System Travel Time for SCALE: 15604968485994392.00 ± 3981092683044015.50
+
+ASCALE
+LOW
+Average Total System Travel Time for SO: 12802969439.91 ± 9773883483.41
+Average ASCALE flow assigned: 19748171.07 ± 68443.28
+Average selfish flow assigned: 22907104.00 ± 0.00
+Average Total System Travel Time for ASCALE: 3088426018.15 ± 1240915008.08
+Average Total System Travel Time for Selfish Best Response: 33089767422.49 ± 1085967910.16
+Average Runtime: 191.47883 ± 2.42736 seconds
+Average Ultimate Total System Travel Time for ASCALE: 21061467359.71 ± 10488074820.81
+
+MED
+Average Total System Travel Time for SO: 43872699547383.20 ± 59144971746888.20
+Average ASCALE flow assigned: 59591111.59 ± 491004.99
+Average selfish flow assigned: 68721312.00 ± 0.00
+Average Total System Travel Time for ASCALE: 353912789143.60 ± 248660494974.22
+Average Total System Travel Time for Selfish Best Response: 2355524842989.74 ± 2169623158850.97
+Average Runtime: 192.00570 ± 5.34350 seconds
+Average Ultimate Total System Travel Time for ASCALE: 4084926457257.26 ± 4825953099339.96
+
+HIGH
+Average Total System Travel Time for SO: 2023188393257717.75 ± 4096017279646247.50
+Average ASCALE flow assigned: 118772033.03 ± 1284327.84
+Average selfish flow assigned: 137442624.00 ± 0.00
+Average Total System Travel Time for ASCALE: 9930149518569.62 ± 8974467346936.88
+Average Total System Travel Time for Selfish Best Response: 103919538028279.98 ± 330431003730297.75
+Average Runtime: 191.99697 ± 14.15250 seconds
+Average Ultimate Total System Travel Time for ASCALE: 120618187092393.28 ± 155463129283130.91
+
+ALOOF
+LOW
+Average Total System Travel Time for SO: 47400322.63 ± 945216.47
+Average ALOOF flow assigned: 17400659.39 ± 81522.63
+Average selfish flow assigned: 22907104.00 ± 0.00
+Average Total System Travel Time for ALOOF: 2861426674.06 ± 1171466286.86
+Average Total System Travel Time for Selfish Best Response: 33089767422.49 ± 1085967910.16
+Average Runtime: 189.88957 ± 1.37445 seconds
+Average Ultimate Total System Travel Time for ALOOF: 19067658612.14 ± 10083268020.35
+
+MED
+Average Total System Travel Time for SO: 12736876017.91 ± 9678560406.92
+Average ALOOF flow assigned: 52409986.65 ± 288910.58
+Average selfish flow assigned: 68721312.00 ± 0.00
+Average Total System Travel Time for ALOOF: 168853944481.59 ± 83287792193.81
+Average Total System Travel Time for Selfish Best Response: 2090159189925.30 ± 0.00
+Average Runtime: 185.76705 ± 4.09993 seconds
+Average Ultimate Total System Travel Time for ALOOF: 998887680758.89 ± 508643690220.95
+
+HIGH
+Average Total System Travel Time for SO: 2595871836182.52 ± 1364908340249.50
+Average ALOOF flow assigned: 105912110.75 ± 472622.99
+Average selfish flow assigned: 137442624.00 ± 0.00
+Average Total System Travel Time for ALOOF: 5040426415306.59 ± 1758937303409.21
+Average Total System Travel Time for Selfish Best Response: 51447525695472.25 ± 3071880755667.98
+Average Runtime: 187.62428 ± 2.15832 seconds
+Average Ultimate Total System Travel Time for ALOOF: 35070593178574.01 ± 12202440313336.09

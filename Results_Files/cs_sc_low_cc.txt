@@ -1,0 +1,1100 @@
+Run #1
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.15994 seconds
+
+Run #2
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.09149 seconds
+
+Run #3
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.14001 seconds
+
+Run #4
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.18565 seconds
+
+Run #5
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.17264 seconds
+
+Run #6
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.12782 seconds
+
+Run #7
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.10436 seconds
+
+Run #8
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.14423 seconds
+
+Run #9
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.21015 seconds
+
+Run #10
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.14452 seconds
+
+Run #11
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.13366 seconds
+
+Run #12
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.19143 seconds
+
+Run #13
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.12152 seconds
+
+Run #14
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.18022 seconds
+
+Run #15
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.05906 seconds
+
+Run #16
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.19068 seconds
+
+Run #17
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.12996 seconds
+
+Run #18
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.27276 seconds
+
+Run #19
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.17915 seconds
+
+Run #20
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.22851 seconds
+
+Run #21
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.24522 seconds
+
+Run #22
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.03839 seconds
+
+Run #23
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.10714 seconds
+
+Run #24
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.09349 seconds
+
+Run #25
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.11131 seconds
+
+Run #26
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.18451 seconds
+
+Run #27
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.11932 seconds
+
+Run #28
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.07567 seconds
+
+Run #29
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.07516 seconds
+
+Run #30
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.12725 seconds
+
+Run #31
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.18042 seconds
+
+Run #32
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.18511 seconds
+
+Run #33
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.16728 seconds
+
+Run #34
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.14592 seconds
+
+Run #35
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.09078 seconds
+
+Run #36
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.13934 seconds
+
+Run #37
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.14238 seconds
+
+Run #38
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.08608 seconds
+
+Run #39
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.19495 seconds
+
+Run #40
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.17441 seconds
+
+Run #41
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.23864 seconds
+
+Run #42
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.11045 seconds
+
+Run #43
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.18183 seconds
+
+Run #44
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.33121 seconds
+
+Run #45
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.14016 seconds
+
+Run #46
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.1858 seconds
+
+Run #47
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.13688 seconds
+
+Run #48
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.16421 seconds
+
+Run #49
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.15022 seconds
+
+Run #50
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.13741 seconds
+
+Run #51
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.11733 seconds
+
+Run #52
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.16866 seconds
+
+Run #53
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.06161 seconds
+
+Run #54
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.11599 seconds
+
+Run #55
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.14891 seconds
+
+Run #56
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.13272 seconds
+
+Run #57
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.17197 seconds
+
+Run #58
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.17401 seconds
+
+Run #59
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.18221 seconds
+
+Run #60
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.18183 seconds
+
+Run #61
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.08985 seconds
+
+Run #62
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.55586 seconds
+
+Run #63
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.19969 seconds
+
+Run #64
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.19317 seconds
+
+Run #65
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.27871 seconds
+
+Run #66
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.19618 seconds
+
+Run #67
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.40863 seconds
+
+Run #68
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.11921 seconds
+
+Run #69
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.20781 seconds
+
+Run #70
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.14563 seconds
+
+Run #71
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.1544 seconds
+
+Run #72
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.27533 seconds
+
+Run #73
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.1448 seconds
+
+Run #74
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.30591 seconds
+
+Run #75
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.21238 seconds
+
+Run #76
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.05886 seconds
+
+Run #77
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.18392 seconds
+
+Run #78
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.21241 seconds
+
+Run #79
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.15743 seconds
+
+Run #80
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.20897 seconds
+
+Run #81
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.16726 seconds
+
+Run #82
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.20369 seconds
+
+Run #83
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.1584 seconds
+
+Run #84
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.06512 seconds
+
+Run #85
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.09528 seconds
+
+Run #86
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.0633 seconds
+
+Run #87
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.17843 seconds
+
+Run #88
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.16457 seconds
+
+Run #89
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.16784 seconds
+
+Run #90
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.12791 seconds
+
+Run #91
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.16576 seconds
+
+Run #92
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.12615 seconds
+
+Run #93
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.19401 seconds
+
+Run #94
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.20247 seconds
+
+Run #95
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.22937 seconds
+
+Run #96
+0.25
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.25
+Updated Trust Value: 0.3
+Runtime: 3.13073 seconds
+
+Run #97
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.14836 seconds
+
+Run #98
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.16998 seconds
+
+Run #99
+0.5
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.5
+Updated Trust Value: 0.55
+Runtime: 3.13567 seconds
+
+Run #100
+0.75
+Total System Travel Time for SO: 5046.875
+Total CC flow assigned:  500.0
+Total selfish flow assigned:  500.0
+Total System Travel Time for CC:  5046.875
+Total System Travel Time for Selfish Best Response:  5046.875
+Starting Trust Value:  0.75
+Updated Trust Value: 0.8
+Runtime: 3.17194 seconds
+

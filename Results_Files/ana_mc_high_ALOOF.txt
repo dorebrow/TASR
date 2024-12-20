@@ -1,0 +1,900 @@
+Run #1
+Total System Travel Time for SO: 5269975.796641808
+Total ALOOF flow assigned:  502386.4710425001
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14890181.423829088
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 97423583.25841555
+Runtime: 3.78284 seconds
+
+Run #2
+Total System Travel Time for SO: 5079468.958024474
+Total ALOOF flow assigned:  506231.4591605584
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13867497.93358503
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 90146884.20273049
+Runtime: 3.15035 seconds
+
+Run #3
+Total System Travel Time for SO: 4316932.267712118
+Total ALOOF flow assigned:  508469.2739900229
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14220389.876760045
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 88834522.57941926
+Runtime: 3.55678 seconds
+
+Run #4
+Total System Travel Time for SO: 8573343.949231688
+Total ALOOF flow assigned:  520290.4030380408
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14838704.72796163
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 93274659.653077
+Runtime: 2.6548 seconds
+
+Run #5
+Total System Travel Time for SO: 2245963.726843438
+Total ALOOF flow assigned:  516252.56143124495
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  17996996.94812215
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 120031482.65803656
+Runtime: 5.24254 seconds
+
+Run #6
+Total System Travel Time for SO: 5368298.014516285
+Total ALOOF flow assigned:  497573.97382714704
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15466377.718695557
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 102208689.04977779
+Runtime: 2.06092 seconds
+
+Run #7
+Total System Travel Time for SO: 5139654.45418956
+Total ALOOF flow assigned:  519157.48833995813
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15347619.097422477
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 101464696.45649622
+Runtime: 2.53578 seconds
+
+Run #8
+Total System Travel Time for SO: 3715586.247775525
+Total ALOOF flow assigned:  502071.71517995984
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14571961.831420569
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 89545095.58561619
+Runtime: 3.48324 seconds
+
+Run #9
+Total System Travel Time for SO: 3278935.832667201
+Total ALOOF flow assigned:  513823.55199583643
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  17195462.391742125
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 113326369.20576748
+Runtime: 2.68819 seconds
+
+Run #10
+Total System Travel Time for SO: 4581826.228480479
+Total ALOOF flow assigned:  508018.4576979501
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15710454.200880967
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 103141875.91884966
+Runtime: 2.03598 seconds
+
+Run #11
+Total System Travel Time for SO: 4573856.534071625
+Total ALOOF flow assigned:  526240.5552663467
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  11888090.300228758
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 71841107.69870739
+Runtime: 2.96692 seconds
+
+Run #12
+Total System Travel Time for SO: 5048147.455450382
+Total ALOOF flow assigned:  521001.6280428334
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  16266258.250507565
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 105754056.94985373
+Runtime: 2.98554 seconds
+
+Run #13
+Total System Travel Time for SO: 3063691.641766529
+Total ALOOF flow assigned:  509597.26512785954
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12675110.114854133
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 77877051.09931011
+Runtime: 3.26498 seconds
+
+Run #14
+Total System Travel Time for SO: 3416196.832383787
+Total ALOOF flow assigned:  518452.29363946425
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14443340.974429015
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 91946675.39794914
+Runtime: 5.393 seconds
+
+Run #15
+Total System Travel Time for SO: 11796672.093797559
+Total ALOOF flow assigned:  500022.0721277336
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  8607911.085237097
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 48139757.043978296
+Runtime: 2.49847 seconds
+
+Run #16
+Total System Travel Time for SO: 4934832.809803029
+Total ALOOF flow assigned:  505785.5334654671
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13442229.332890397
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 85502777.51295976
+Runtime: 3.24555 seconds
+
+Run #17
+Total System Travel Time for SO: 4590642.156749435
+Total ALOOF flow assigned:  504472.5549300789
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  10984994.830535034
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 63769044.92561023
+Runtime: 2.93413 seconds
+
+Run #18
+Total System Travel Time for SO: 2888146.870559957
+Total ALOOF flow assigned:  524054.1187371176
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13939849.423404498
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 88351571.52003855
+Runtime: 3.13208 seconds
+
+Run #19
+Total System Travel Time for SO: 8372264.068906526
+Total ALOOF flow assigned:  516454.96360126266
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14954123.287641013
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 98459076.38241069
+Runtime: 2.26168 seconds
+
+Run #20
+Total System Travel Time for SO: 5042683.403706663
+Total ALOOF flow assigned:  524891.2565041599
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15366893.566135285
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 101321609.48737466
+Runtime: 2.99463 seconds
+
+Run #21
+Total System Travel Time for SO: 3779442.74141402
+Total ALOOF flow assigned:  496804.5084366793
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12017224.740563253
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 74393228.82535289
+Runtime: 3.46851 seconds
+
+Run #22
+Total System Travel Time for SO: 3907216.308695419
+Total ALOOF flow assigned:  512566.8026861125
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15130296.880141892
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 94466733.6135427
+Runtime: 3.82825 seconds
+
+Run #23
+Total System Travel Time for SO: 7492134.77444999
+Total ALOOF flow assigned:  515118.74991009006
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14573914.018202616
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 91772788.75982706
+Runtime: 2.38936 seconds
+
+Run #24
+Total System Travel Time for SO: 4142135.634196614
+Total ALOOF flow assigned:  504745.5530671198
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13923176.40607442
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 89789097.12744063
+Runtime: 2.98002 seconds
+
+Run #25
+Total System Travel Time for SO: 6217745.363988551
+Total ALOOF flow assigned:  518127.6311388791
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12304515.318597466
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 75470107.8438592
+Runtime: 2.76137 seconds
+
+Run #26
+Total System Travel Time for SO: 10440607.862458553
+Total ALOOF flow assigned:  518369.7418462285
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  9468061.869174676
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 53692853.87366024
+Runtime: 2.29368 seconds
+
+Run #27
+Total System Travel Time for SO: 8208979.255571699
+Total ALOOF flow assigned:  519566.3373205335
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  9913948.626912268
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 53597926.09985804
+Runtime: 2.51289 seconds
+
+Run #28
+Total System Travel Time for SO: 6727595.399617176
+Total ALOOF flow assigned:  499651.05418460607
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  11563429.583699951
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 66793684.30359562
+Runtime: 2.54082 seconds
+
+Run #29
+Total System Travel Time for SO: 2877543.448149463
+Total ALOOF flow assigned:  496604.5246982892
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  17574949.219461996
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 117973324.47146405
+Runtime: 4.02076 seconds
+
+Run #30
+Total System Travel Time for SO: 3135450.262269762
+Total ALOOF flow assigned:  509072.34010696
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  22953983.363930497
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 155915202.12173623
+Runtime: 3.58233 seconds
+
+Run #31
+Total System Travel Time for SO: 2166063.642560414
+Total ALOOF flow assigned:  513017.18350364995
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  20536364.41129259
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 141158280.53960568
+Runtime: 3.47412 seconds
+
+Run #32
+Total System Travel Time for SO: 5671406.579272204
+Total ALOOF flow assigned:  522644.8203104972
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15159978.902081681
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 98332404.91866176
+Runtime: 2.46866 seconds
+
+Run #33
+Total System Travel Time for SO: 2574968.625469729
+Total ALOOF flow assigned:  490565.26893336227
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14753961.74840291
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 93760758.55448079
+Runtime: 3.3035 seconds
+
+Run #34
+Total System Travel Time for SO: 5582983.070311788
+Total ALOOF flow assigned:  497649.02737661777
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  16029712.35423271
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 103940090.77286021
+Runtime: 2.91824 seconds
+
+Run #35
+Total System Travel Time for SO: 4407177.602517393
+Total ALOOF flow assigned:  510090.50662019924
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15597114.692506634
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 102092823.15684694
+Runtime: 3.13641 seconds
+
+Run #36
+Total System Travel Time for SO: 5288878.929215999
+Total ALOOF flow assigned:  511550.53644326446
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14112976.294274433
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 91083216.85087414
+Runtime: 3.07913 seconds
+
+Run #37
+Total System Travel Time for SO: 3077862.790439159
+Total ALOOF flow assigned:  512730.25794004305
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  17556526.941968195
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 114486610.83756374
+Runtime: 2.94072 seconds
+
+Run #38
+Total System Travel Time for SO: 2898194.248777127
+Total ALOOF flow assigned:  508915.4992786625
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  18822420.76307349
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 125570167.04766636
+Runtime: 3.99809 seconds
+
+Run #39
+Total System Travel Time for SO: 5570962.10653031
+Total ALOOF flow assigned:  528201.3704151917
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  16059311.555837099
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 104571641.04852635
+Runtime: 2.52979 seconds
+
+Run #40
+Total System Travel Time for SO: 5111200.764950937
+Total ALOOF flow assigned:  497343.54654512985
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13873677.140378354
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 90383600.35454075
+Runtime: 3.18678 seconds
+
+Run #41
+Total System Travel Time for SO: 5190501.147563911
+Total ALOOF flow assigned:  511007.1133316102
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  10548898.315522488
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 61695014.69097295
+Runtime: 3.39626 seconds
+
+Run #42
+Total System Travel Time for SO: 13220680.912327878
+Total ALOOF flow assigned:  517383.4234413222
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14735764.168585723
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 94870086.187158
+Runtime: 2.4684 seconds
+
+Run #43
+Total System Travel Time for SO: 5710591.783796909
+Total ALOOF flow assigned:  511762.54243042716
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13217296.521785624
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 82094686.36142606
+Runtime: 2.72122 seconds
+
+Run #44
+Total System Travel Time for SO: 4948820.314689578
+Total ALOOF flow assigned:  506259.61656204186
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13080566.869652158
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 81179269.92738865
+Runtime: 2.42182 seconds
+
+Run #45
+Total System Travel Time for SO: 4882795.021987908
+Total ALOOF flow assigned:  505989.47360770596
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  16646831.665043758
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 108276730.48382305
+Runtime: 3.20226 seconds
+
+Run #46
+Total System Travel Time for SO: 2743306.849003341
+Total ALOOF flow assigned:  514983.4325913413
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  18203215.072652142
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 121082351.75183575
+Runtime: 4.60128 seconds
+
+Run #47
+Total System Travel Time for SO: 5321421.62010225
+Total ALOOF flow assigned:  511802.5398771181
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13485466.27489188
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 86708916.93897343
+Runtime: 2.95373 seconds
+
+Run #48
+Total System Travel Time for SO: 3595187.081999935
+Total ALOOF flow assigned:  520609.6366096216
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12363875.3531674
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 75966520.39503092
+Runtime: 2.50462 seconds
+
+Run #49
+Total System Travel Time for SO: 3969198.104821051
+Total ALOOF flow assigned:  523900.2447851285
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  17612846.1479741
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 118233044.80043478
+Runtime: 3.16285 seconds
+
+Run #50
+Total System Travel Time for SO: 2690420.902040796
+Total ALOOF flow assigned:  499388.6061767607
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14366930.163400305
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 91454217.11343919
+Runtime: 3.84761 seconds
+
+Run #51
+Total System Travel Time for SO: 7104693.34035237
+Total ALOOF flow assigned:  505609.502870697
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  17454124.647557553
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 118278960.2904224
+Runtime: 2.82927 seconds
+
+Run #52
+Total System Travel Time for SO: 3181059.061287105
+Total ALOOF flow assigned:  490823.00144038897
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  11826075.271997694
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 74688435.12107222
+Runtime: 3.36806 seconds
+
+Run #53
+Total System Travel Time for SO: 4738092.049870295
+Total ALOOF flow assigned:  513083.91911185434
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13642402.35694447
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 88372268.28714101
+Runtime: 3.81063 seconds
+
+Run #54
+Total System Travel Time for SO: 7422871.894618625
+Total ALOOF flow assigned:  516744.81366297393
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  9617845.96402159
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 54711075.12710195
+Runtime: 2.49606 seconds
+
+Run #55
+Total System Travel Time for SO: 11184256.734121324
+Total ALOOF flow assigned:  512659.3769271463
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14381227.64121964
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 90410728.34703794
+Runtime: 2.3412 seconds
+
+Run #56
+Total System Travel Time for SO: 2309707.519309511
+Total ALOOF flow assigned:  524031.99084867997
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  18017058.32737242
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 116941888.36920111
+Runtime: 2.71967 seconds
+
+Run #57
+Total System Travel Time for SO: 5324007.418505894
+Total ALOOF flow assigned:  521706.9841404581
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15549583.704184575
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 101980946.36226343
+Runtime: 3.23014 seconds
+
+Run #58
+Total System Travel Time for SO: 5529253.602407277
+Total ALOOF flow assigned:  499191.69975532213
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14181171.927662717
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 91303925.79491654
+Runtime: 3.44883 seconds
+
+Run #59
+Total System Travel Time for SO: 6570702.52809671
+Total ALOOF flow assigned:  520757.64115206583
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  11777674.143360224
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 72981854.85164861
+Runtime: 2.97133 seconds
+
+Run #60
+Total System Travel Time for SO: 5933359.574618745
+Total ALOOF flow assigned:  499179.8642223946
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  16028876.813807702
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 103120126.66558957
+Runtime: 2.85187 seconds
+
+Run #61
+Total System Travel Time for SO: 3398359.050839632
+Total ALOOF flow assigned:  505275.4122484715
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13936532.227359772
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 90154780.76928098
+Runtime: 4.25595 seconds
+
+Run #62
+Total System Travel Time for SO: 8114593.562198279
+Total ALOOF flow assigned:  517259.3026342796
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12257071.173373403
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 71286257.75107719
+Runtime: 2.73321 seconds
+
+Run #63
+Total System Travel Time for SO: 6571902.227868035
+Total ALOOF flow assigned:  519186.0976902491
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  13072021.202654148
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 81975653.48157212
+Runtime: 3.34022 seconds
+
+Run #64
+Total System Travel Time for SO: 4113749.055758235
+Total ALOOF flow assigned:  497239.4039972056
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12619997.657675235
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 80158642.05372992
+Runtime: 3.00236 seconds
+
+Run #65
+Total System Travel Time for SO: 3144203.63272125
+Total ALOOF flow assigned:  482622.22762992105
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15075947.633612039
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 97742190.27289656
+Runtime: 2.77295 seconds
+
+Run #66
+Total System Travel Time for SO: 4021980.574872861
+Total ALOOF flow assigned:  523018.7652400209
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12725320.656899218
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 78150015.3131239
+Runtime: 3.74051 seconds
+
+Run #67
+Total System Travel Time for SO: 2257029.410190498
+Total ALOOF flow assigned:  500715.2307472708
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  20856375.677054778
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 142739377.65938818
+Runtime: 3.88023 seconds
+
+Run #68
+Total System Travel Time for SO: 3793282.304560516
+Total ALOOF flow assigned:  509605.16428476013
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14114376.274542127
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 90216897.43645094
+Runtime: 3.82282 seconds
+
+Run #69
+Total System Travel Time for SO: 2747297.558113066
+Total ALOOF flow assigned:  522788.9733576315
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15509880.554701952
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 100414515.93597902
+Runtime: 4.99578 seconds
+
+Run #70
+Total System Travel Time for SO: 3796330.301042061
+Total ALOOF flow assigned:  503811.8595299718
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  10821680.505208537
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 63609759.28930552
+Runtime: 3.3407 seconds
+
+Run #71
+Total System Travel Time for SO: 4423019.829509936
+Total ALOOF flow assigned:  515162.6630523756
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15820693.910543015
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 103127535.4510912
+Runtime: 2.95791 seconds
+
+Run #72
+Total System Travel Time for SO: 6755156.901210731
+Total ALOOF flow assigned:  513107.6658694715
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14627200.387383563
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 92729331.55981103
+Runtime: 2.72681 seconds
+
+Run #73
+Total System Travel Time for SO: 5947122.175118991
+Total ALOOF flow assigned:  506005.11164501385
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  11523402.156560075
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 68074172.88500412
+Runtime: 2.54334 seconds
+
+Run #74
+Total System Travel Time for SO: 2928898.883971574
+Total ALOOF flow assigned:  519244.7375589883
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15952781.355010474
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 103368270.60106659
+Runtime: 3.86096 seconds
+
+Run #75
+Total System Travel Time for SO: 3746376.012224773
+Total ALOOF flow assigned:  526055.233055872
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  18235157.848520976
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 123897382.49190286
+Runtime: 3.42616 seconds
+
+Run #76
+Total System Travel Time for SO: 8188148.384017942
+Total ALOOF flow assigned:  534662.6173476505
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14569707.330433229
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 89946393.73238169
+Runtime: 2.61059 seconds
+
+Run #77
+Total System Travel Time for SO: 4074411.824287803
+Total ALOOF flow assigned:  514211.4599801508
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15881512.564643571
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 103816717.55051237
+Runtime: 3.38027 seconds
+
+Run #78
+Total System Travel Time for SO: 3392046.212583492
+Total ALOOF flow assigned:  503215.1042768522
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  17345973.554968536
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 117352309.37648216
+Runtime: 5.48518 seconds
+
+Run #79
+Total System Travel Time for SO: 3483006.906317997
+Total ALOOF flow assigned:  501941.8576912771
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14520693.598940913
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 92756811.2688756
+Runtime: 3.15663 seconds
+
+Run #80
+Total System Travel Time for SO: 3402901.231213878
+Total ALOOF flow assigned:  527544.9082120216
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14654357.238428652
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 92649201.5125975
+Runtime: 5.33548 seconds
+
+Run #81
+Total System Travel Time for SO: 2288841.700572433
+Total ALOOF flow assigned:  495450.1216087787
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  20240300.263272654
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 140588404.99513793
+Runtime: 3.15153 seconds
+
+Run #82
+Total System Travel Time for SO: 3884204.306789306
+Total ALOOF flow assigned:  528296.3745000251
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15250719.093969375
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 96974104.03132422
+Runtime: 2.37148 seconds
+
+Run #83
+Total System Travel Time for SO: 4577628.029563806
+Total ALOOF flow assigned:  508678.3063160378
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  11197293.43994598
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 64852355.682601
+Runtime: 2.68893 seconds
+
+Run #84
+Total System Travel Time for SO: 4996392.423689835
+Total ALOOF flow assigned:  512727.46323853295
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15138257.382919775
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 101565613.56447853
+Runtime: 3.12756 seconds
+
+Run #85
+Total System Travel Time for SO: 8669492.711808084
+Total ALOOF flow assigned:  529337.0745625368
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  17356356.331710465
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 114038431.8851869
+Runtime: 2.16762 seconds
+
+Run #86
+Total System Travel Time for SO: 6218006.031266855
+Total ALOOF flow assigned:  517657.104535328
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  10450852.025186941
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 61915967.30072493
+Runtime: 2.88287 seconds
+
+Run #87
+Total System Travel Time for SO: 3535463.196120605
+Total ALOOF flow assigned:  514617.307725147
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  16469969.163503006
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 106766351.26105137
+Runtime: 4.80429 seconds
+
+Run #88
+Total System Travel Time for SO: 4203168.901972884
+Total ALOOF flow assigned:  490449.6504783301
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12224813.028927522
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 75338976.33445637
+Runtime: 3.03907 seconds
+
+Run #89
+Total System Travel Time for SO: 9140008.724286962
+Total ALOOF flow assigned:  514108.02614778595
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  18548470.791897167
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 122556633.10594682
+Runtime: 2.79537 seconds
+
+Run #90
+Total System Travel Time for SO: 5954780.563207858
+Total ALOOF flow assigned:  499671.8421258925
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14392406.935106125
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 88820658.20629725
+Runtime: 2.28324 seconds
+
+Run #91
+Total System Travel Time for SO: 4513325.975523671
+Total ALOOF flow assigned:  523816.5073781461
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  11170943.297065843
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 68759129.01838042
+Runtime: 3.13643 seconds
+
+Run #92
+Total System Travel Time for SO: 4726232.056926225
+Total ALOOF flow assigned:  493768.93214757275
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  12809847.627350885
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 80510949.27266169
+Runtime: 4.08872 seconds
+
+Run #93
+Total System Travel Time for SO: 7813515.020231951
+Total ALOOF flow assigned:  533143.6072629384
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15818489.920942672
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 103742770.3587813
+Runtime: 3.08621 seconds
+
+Run #94
+Total System Travel Time for SO: 5910673.987112734
+Total ALOOF flow assigned:  517006.3188464613
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  10026420.22582347
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 55221264.96932001
+Runtime: 2.40501 seconds
+
+Run #95
+Total System Travel Time for SO: 5699496.334107904
+Total ALOOF flow assigned:  519572.4350668632
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  15445575.846075917
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 101717058.66893588
+Runtime: 2.71099 seconds
+
+Run #96
+Total System Travel Time for SO: 4463327.591496335
+Total ALOOF flow assigned:  504418.60435965506
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  11931408.54114471
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 73751479.0024277
+Runtime: 2.773 seconds
+
+Run #97
+Total System Travel Time for SO: 2272812.743622047
+Total ALOOF flow assigned:  515844.75659273175
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  23830418.430317827
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 169520037.30278242
+Runtime: 5.43409 seconds
+
+Run #98
+Total System Travel Time for SO: 4325243.861126608
+Total ALOOF flow assigned:  515542.27969004365
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  14105899.889899077
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 91278366.5345168
+Runtime: 3.55003 seconds
+
+Run #99
+Total System Travel Time for SO: 2561762.227677763
+Total ALOOF flow assigned:  501149.5777675996
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  18083736.870602533
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 120788072.13353996
+Runtime: 3.12909 seconds
+
+Run #100
+Total System Travel Time for SO: 3327721.935850186
+Total ALOOF flow assigned:  500305.05769536964
+Total selfish flow assigned:  685800.0
+Total System Travel Time for ALOOF:  16052728.783772489
+Total System Travel Time for Selfish Best Response:  92601734.96014842
+Total System Travel Time for All Demand: 104473189.17972256
+Runtime: 3.02115 seconds
+

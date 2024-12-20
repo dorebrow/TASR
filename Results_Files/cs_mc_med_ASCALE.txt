@@ -1,0 +1,900 @@
+Run #1
+Total System Travel Time for SO: 3472312567.5759735
+Total ASCALE flow assigned:  9025840.220547693
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  94062542233220.55
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5777048506549932e+16
+Runtime: 75.74634 seconds
+
+Run #2
+Total System Travel Time for SO: 3301157121.2115717
+Total ASCALE flow assigned:  9069627.688899614
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  73043698716331.52
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 2.7085248362712204e+16
+Runtime: 76.91874 seconds
+
+Run #3
+Total System Travel Time for SO: 3335562458.390789
+Total ASCALE flow assigned:  9063867.323259182
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  104425161896368.98
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.837678021282128e+16
+Runtime: 75.87272 seconds
+
+Run #4
+Total System Travel Time for SO: 3342487753.4595704
+Total ASCALE flow assigned:  9033402.63690313
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  91315399503306.12
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.19495103340048e+16
+Runtime: 76.0837 seconds
+
+Run #5
+Total System Travel Time for SO: 3338633049.8832917
+Total ASCALE flow assigned:  9093275.707576701
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  94367954138520.42
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.565716315574435e+16
+Runtime: 76.09326 seconds
+
+Run #6
+Total System Travel Time for SO: 3234160032.502794
+Total ASCALE flow assigned:  9013063.22141104
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  110393873777300.38
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.719374231063204e+16
+Runtime: 76.93683 seconds
+
+Run #7
+Total System Travel Time for SO: 3368577361.9878416
+Total ASCALE flow assigned:  8996377.550320255
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  97062440637051.3
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.486685049291059e+16
+Runtime: 76.75216 seconds
+
+Run #8
+Total System Travel Time for SO: 3258173820.23354
+Total ASCALE flow assigned:  9098832.727716943
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  99188246957389.34
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.636910009177978e+16
+Runtime: 75.58521 seconds
+
+Run #9
+Total System Travel Time for SO: 3330119807.0753627
+Total ASCALE flow assigned:  8989551.50248276
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  93309952721650.75
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.3973451632097656e+16
+Runtime: 76.15397 seconds
+
+Run #10
+Total System Travel Time for SO: 3290278687.345857
+Total ASCALE flow assigned:  9006549.260364031
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  88334964662519.6
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.270203729351338e+16
+Runtime: 77.32946 seconds
+
+Run #11
+Total System Travel Time for SO: 3310562824.65897
+Total ASCALE flow assigned:  8999224.920869693
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  92863621807608.86
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.439745523717676e+16
+Runtime: 75.72143 seconds
+
+Run #12
+Total System Travel Time for SO: 3318749045.6525683
+Total ASCALE flow assigned:  9105003.72792529
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  100400697942530.7
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.608260022887049e+16
+Runtime: 76.7477 seconds
+
+Run #13
+Total System Travel Time for SO: 3428953727.301067
+Total ASCALE flow assigned:  9066430.371531928
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  103162329313415.34
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.735306479534062e+16
+Runtime: 75.66947 seconds
+
+Run #14
+Total System Travel Time for SO: 3371554305.8811455
+Total ASCALE flow assigned:  9041062.022988547
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  98650318157786.42
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5508664032768668e+16
+Runtime: 75.9862 seconds
+
+Run #15
+Total System Travel Time for SO: 3386042058.077932
+Total ASCALE flow assigned:  9001924.681089528
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  94657744552106.75
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5208389835458988e+16
+Runtime: 78.09073 seconds
+
+Run #16
+Total System Travel Time for SO: 3233405599.9469676
+Total ASCALE flow assigned:  9077289.18928064
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  104150142249844.2
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.904703125714918e+16
+Runtime: 79.23605 seconds
+
+Run #17
+Total System Travel Time for SO: 3225849382.5373354
+Total ASCALE flow assigned:  8998244.556641776
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  109941129649851.23
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.8330135831773384e+16
+Runtime: 76.1509 seconds
+
+Run #18
+Total System Travel Time for SO: 3225218790.346343
+Total ASCALE flow assigned:  9049281.889049327
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  95612183367479.61
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5155390267784852e+16
+Runtime: 81.88512 seconds
+
+Run #19
+Total System Travel Time for SO: 3200605188.359425
+Total ASCALE flow assigned:  9041530.15877917
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  86417751367442.1
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.196785811493734e+16
+Runtime: 77.48654 seconds
+
+Run #20
+Total System Travel Time for SO: 3452053412.450518
+Total ASCALE flow assigned:  9052592.0187396
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  94535645832681.39
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.46830282709782e+16
+Runtime: 76.36024 seconds
+
+Run #21
+Total System Travel Time for SO: 3245282884.011376
+Total ASCALE flow assigned:  9054860.976296503
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  103086831638504.86
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.607177052746111e+16
+Runtime: 76.54562 seconds
+
+Run #22
+Total System Travel Time for SO: 3397071846.857264
+Total ASCALE flow assigned:  9027030.803292766
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  91328067572934.9
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.277383890629225e+16
+Runtime: 75.9717 seconds
+
+Run #23
+Total System Travel Time for SO: 3345437661.8381004
+Total ASCALE flow assigned:  9070320.163996609
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  94399536825056.36
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.3844922733683816e+16
+Runtime: 77.02054 seconds
+
+Run #24
+Total System Travel Time for SO: 3198514731.842338
+Total ASCALE flow assigned:  8970659.038904041
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  87108717571725.2
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.1359854332782132e+16
+Runtime: 77.42452 seconds
+
+Run #25
+Total System Travel Time for SO: 3516606518.5413938
+Total ASCALE flow assigned:  9064541.779481024
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  111883878240062.67
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 4.016629169150215e+16
+Runtime: 77.20014 seconds
+
+Run #26
+Total System Travel Time for SO: 3341782422.7195807
+Total ASCALE flow assigned:  9070479.956660738
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  85802288367406.88
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.187852540223486e+16
+Runtime: 78.81456 seconds
+
+Run #27
+Total System Travel Time for SO: 3441053477.851408
+Total ASCALE flow assigned:  9131180.334140645
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  99156728613510.36
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5888606895544276e+16
+Runtime: 76.41839 seconds
+
+Run #28
+Total System Travel Time for SO: 3308762562.908359
+Total ASCALE flow assigned:  9046707.245097062
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  89349731802319.03
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.2293723210519224e+16
+Runtime: 78.03239 seconds
+
+Run #29
+Total System Travel Time for SO: 3363061626.7173214
+Total ASCALE flow assigned:  9148881.260818884
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  93031467403766.69
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.480035014072422e+16
+Runtime: 77.0511 seconds
+
+Run #30
+Total System Travel Time for SO: 3377440070.161239
+Total ASCALE flow assigned:  9118051.31096241
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  92382843851227.08
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.4180630920538396e+16
+Runtime: 76.63828 seconds
+
+Run #31
+Total System Travel Time for SO: 3308205777.499958
+Total ASCALE flow assigned:  9069561.669889579
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  101389096698456.92
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5793046916512556e+16
+Runtime: 78.39726 seconds
+
+Run #32
+Total System Travel Time for SO: 3284200707.2192793
+Total ASCALE flow assigned:  9042179.922660308
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  95245176341996.05
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.4801328640867508e+16
+Runtime: 76.69454 seconds
+
+Run #33
+Total System Travel Time for SO: 3346887547.304515
+Total ASCALE flow assigned:  9033550.409483388
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  87262226013459.97
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.0950392241686428e+16
+Runtime: 77.92729 seconds
+
+Run #34
+Total System Travel Time for SO: 3341574411.924311
+Total ASCALE flow assigned:  9055670.10623723
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  84892408124826.47
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.153342726969272e+16
+Runtime: 76.53247 seconds
+
+Run #35
+Total System Travel Time for SO: 3440172919.389562
+Total ASCALE flow assigned:  9084335.571828056
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  105969597447219.31
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.820973915083067e+16
+Runtime: 77.4443 seconds
+
+Run #36
+Total System Travel Time for SO: 3348172197.804502
+Total ASCALE flow assigned:  9070321.464670043
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  92961665260200.97
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.261125184556785e+16
+Runtime: 75.8453 seconds
+
+Run #37
+Total System Travel Time for SO: 3312476498.2951546
+Total ASCALE flow assigned:  9062594.39426089
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  93854003606319.67
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.433954148251909e+16
+Runtime: 77.03093 seconds
+
+Run #38
+Total System Travel Time for SO: 3349767806.798124
+Total ASCALE flow assigned:  9095689.733340396
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  95735648583553.17
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.50330895976707e+16
+Runtime: 77.71519 seconds
+
+Run #39
+Total System Travel Time for SO: 3398359022.537593
+Total ASCALE flow assigned:  9043274.06886084
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  89827950858318.08
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.3089147846815116e+16
+Runtime: 78.66117 seconds
+
+Run #40
+Total System Travel Time for SO: 3211739125.722849
+Total ASCALE flow assigned:  8947828.195414914
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  88414351893647.77
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.2425423500006544e+16
+Runtime: 79.57668 seconds
+
+Run #41
+Total System Travel Time for SO: 3322966676.046718
+Total ASCALE flow assigned:  9083687.642599285
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  99922441414077.58
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.672059315575511e+16
+Runtime: 78.53953 seconds
+
+Run #42
+Total System Travel Time for SO: 3312048698.2775245
+Total ASCALE flow assigned:  9039100.685625674
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  85160641002541.39
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.2022343253615e+16
+Runtime: 76.32035 seconds
+
+Run #43
+Total System Travel Time for SO: 3421721597.6143856
+Total ASCALE flow assigned:  9069449.442852221
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  99504532122720.02
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.641836379945867e+16
+Runtime: 76.06341 seconds
+
+Run #44
+Total System Travel Time for SO: 3288426981.966347
+Total ASCALE flow assigned:  9116774.054705447
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  93197182251309.86
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.374279908810963e+16
+Runtime: 75.98493 seconds
+
+Run #45
+Total System Travel Time for SO: 3268405775.157638
+Total ASCALE flow assigned:  9070675.534335539
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  95097513157793.72
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.393545965547136e+16
+Runtime: 76.79449 seconds
+
+Run #46
+Total System Travel Time for SO: 3291525504.9222984
+Total ASCALE flow assigned:  8991150.98104203
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  101871803377205.34
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.686098659634056e+16
+Runtime: 76.19735 seconds
+
+Run #47
+Total System Travel Time for SO: 3180438743.034204
+Total ASCALE flow assigned:  9037402.33195849
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  90780871864859.14
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.310523283933105e+16
+Runtime: 76.98556 seconds
+
+Run #48
+Total System Travel Time for SO: 3246006132.836591
+Total ASCALE flow assigned:  9020976.224733118
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  110718473241732.86
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.8254493018324664e+16
+Runtime: 76.72918 seconds
+
+Run #49
+Total System Travel Time for SO: 3294536146.95105
+Total ASCALE flow assigned:  9037760.239410743
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  105838872659702.25
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.830038129102525e+16
+Runtime: 76.06679 seconds
+
+Run #50
+Total System Travel Time for SO: 3321994397.612414
+Total ASCALE flow assigned:  8990835.06372857
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  83626973608941.98
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.027412446553828e+16
+Runtime: 76.17259 seconds
+
+Run #51
+Total System Travel Time for SO: 3475937598.1074524
+Total ASCALE flow assigned:  9125796.43345215
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  107546939319145.55
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.924211685020847e+16
+Runtime: 76.1142 seconds
+
+Run #52
+Total System Travel Time for SO: 3385046199.3835673
+Total ASCALE flow assigned:  9042112.1700418
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  89397181004568.81
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.3470135879741376e+16
+Runtime: 77.30802 seconds
+
+Run #53
+Total System Travel Time for SO: 3246245163.340095
+Total ASCALE flow assigned:  9067433.51382965
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  94686517017795.92
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.4557381504690344e+16
+Runtime: 76.43584 seconds
+
+Run #54
+Total System Travel Time for SO: 3339867468.9292426
+Total ASCALE flow assigned:  9083813.33332447
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  92995425221903.6
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.442988783226132e+16
+Runtime: 76.91447 seconds
+
+Run #55
+Total System Travel Time for SO: 3272945993.5154734
+Total ASCALE flow assigned:  9058342.738357106
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  81992908145023.73
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.0337197193650276e+16
+Runtime: 78.59675 seconds
+
+Run #56
+Total System Travel Time for SO: 3329747743.821378
+Total ASCALE flow assigned:  8969494.131691396
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  89504502079985.98
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.3600932615300596e+16
+Runtime: 76.58478 seconds
+
+Run #57
+Total System Travel Time for SO: 3188512635.989493
+Total ASCALE flow assigned:  8942330.543780053
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  86438316775232.44
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.166606876612282e+16
+Runtime: 76.96852 seconds
+
+Run #58
+Total System Travel Time for SO: 3279760922.418406
+Total ASCALE flow assigned:  9005418.099984743
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  102568943229658.89
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.689863191946075e+16
+Runtime: 77.3322 seconds
+
+Run #59
+Total System Travel Time for SO: 3348363908.0712066
+Total ASCALE flow assigned:  9097885.583430352
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  109968716111140.06
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.8693641601445816e+16
+Runtime: 77.86614 seconds
+
+Run #60
+Total System Travel Time for SO: 3241103867.6872964
+Total ASCALE flow assigned:  9011637.350911452
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  85412395312856.39
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.10710987956355e+16
+Runtime: 78.59148 seconds
+
+Run #61
+Total System Travel Time for SO: 3325885125.0097837
+Total ASCALE flow assigned:  9071758.65198385
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  100975524676735.36
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.623976553752758e+16
+Runtime: 78.33943 seconds
+
+Run #62
+Total System Travel Time for SO: 3333906572.5801234
+Total ASCALE flow assigned:  9082585.199276568
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  93546252736682.84
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.528384883629398e+16
+Runtime: 75.9221 seconds
+
+Run #63
+Total System Travel Time for SO: 3323554535.682337
+Total ASCALE flow assigned:  9027132.425864363
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  91156451747068.64
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.141085261655931e+16
+Runtime: 76.19369 seconds
+
+Run #64
+Total System Travel Time for SO: 3329004066.998585
+Total ASCALE flow assigned:  9091867.732671825
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  105477589575370.88
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.609537445430337e+16
+Runtime: 76.5971 seconds
+
+Run #65
+Total System Travel Time for SO: 3309887778.467068
+Total ASCALE flow assigned:  9031405.682931239
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  104066667752894.92
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.624067649456014e+16
+Runtime: 81.64331 seconds
+
+Run #66
+Total System Travel Time for SO: 3530011461.318224
+Total ASCALE flow assigned:  9134344.554593772
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  102122685007786.52
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.776295733671536e+16
+Runtime: 76.71544 seconds
+
+Run #67
+Total System Travel Time for SO: 3360898571.841129
+Total ASCALE flow assigned:  9003645.603352005
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  99376700286201.1
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.702221429113032e+16
+Runtime: 77.19573 seconds
+
+Run #68
+Total System Travel Time for SO: 3351178048.0981836
+Total ASCALE flow assigned:  9029441.310647216
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  91245140116189.69
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.4992622462081308e+16
+Runtime: 77.17815 seconds
+
+Run #69
+Total System Travel Time for SO: 3399610072.3628674
+Total ASCALE flow assigned:  9100379.12425971
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  98147821291328.77
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.74918761913849e+16
+Runtime: 77.53002 seconds
+
+Run #70
+Total System Travel Time for SO: 3279446873.481413
+Total ASCALE flow assigned:  9075772.195779655
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  88627617263044.19
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.2422362578629652e+16
+Runtime: 77.43592 seconds
+
+Run #71
+Total System Travel Time for SO: 3391464561.999629
+Total ASCALE flow assigned:  9124601.357980931
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  103893920693515.33
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.825804593334471e+16
+Runtime: 75.81216 seconds
+
+Run #72
+Total System Travel Time for SO: 3375207180.887673
+Total ASCALE flow assigned:  9023385.917394977
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  98249716251627.4
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.4921525889701516e+16
+Runtime: 77.23011 seconds
+
+Run #73
+Total System Travel Time for SO: 3221347465.0246058
+Total ASCALE flow assigned:  9127605.199518302
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  112887873556430.94
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 4.102213625086654e+16
+Runtime: 78.42075 seconds
+
+Run #74
+Total System Travel Time for SO: 3339700970.9088926
+Total ASCALE flow assigned:  9093400.864995858
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  94327485087119.4
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.498041509548002e+16
+Runtime: 76.845 seconds
+
+Run #75
+Total System Travel Time for SO: 3411075717.554277
+Total ASCALE flow assigned:  9033310.049475916
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  95026266277019.03
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5228610042890644e+16
+Runtime: 77.01946 seconds
+
+Run #76
+Total System Travel Time for SO: 3323955201.676819
+Total ASCALE flow assigned:  9023357.903829582
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  83584377854108.95
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.017644912375621e+16
+Runtime: 76.26905 seconds
+
+Run #77
+Total System Travel Time for SO: 3246638192.4048457
+Total ASCALE flow assigned:  9027090.60685682
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  101180217967907.02
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.63641461014074e+16
+Runtime: 75.88868 seconds
+
+Run #78
+Total System Travel Time for SO: 3248040858.1602387
+Total ASCALE flow assigned:  9110200.798028206
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  89546272057151.62
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.311662144757335e+16
+Runtime: 77.17126 seconds
+
+Run #79
+Total System Travel Time for SO: 3444452900.0717916
+Total ASCALE flow assigned:  8985906.245852454
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  97195718504601.4
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.4237357859085664e+16
+Runtime: 77.7941 seconds
+
+Run #80
+Total System Travel Time for SO: 3333889778.886779
+Total ASCALE flow assigned:  9074884.858849354
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  98962916290489.16
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.573799216426135e+16
+Runtime: 76.98797 seconds
+
+Run #81
+Total System Travel Time for SO: 3326554294.2780957
+Total ASCALE flow assigned:  9143394.017302644
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  113154921471599.67
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 4.008878830141026e+16
+Runtime: 76.78956 seconds
+
+Run #82
+Total System Travel Time for SO: 3387934256.576582
+Total ASCALE flow assigned:  9060657.65200085
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  116680367130076.14
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 4.336406491694497e+16
+Runtime: 78.34497 seconds
+
+Run #83
+Total System Travel Time for SO: 3333896473.213837
+Total ASCALE flow assigned:  8975713.560781037
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  87020186535781.25
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.139470541234985e+16
+Runtime: 77.13358 seconds
+
+Run #84
+Total System Travel Time for SO: 3258806151.733868
+Total ASCALE flow assigned:  9067622.898397753
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  87687246440525.02
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.2437591427076892e+16
+Runtime: 77.11075 seconds
+
+Run #85
+Total System Travel Time for SO: 3500481391.726466
+Total ASCALE flow assigned:  9121719.713525921
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  86826094509800.39
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.239776607520824e+16
+Runtime: 76.77402 seconds
+
+Run #86
+Total System Travel Time for SO: 3517276317.3316836
+Total ASCALE flow assigned:  9016214.757596036
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  93204671516897.1
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.398022112403371e+16
+Runtime: 77.47228 seconds
+
+Run #87
+Total System Travel Time for SO: 3348340015.8861613
+Total ASCALE flow assigned:  9104172.198380003
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  91651815494631.61
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.4874180013463188e+16
+Runtime: 78.54888 seconds
+
+Run #88
+Total System Travel Time for SO: 3347279576.1653585
+Total ASCALE flow assigned:  9022977.105543248
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  90271990341970.12
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.2536266879669108e+16
+Runtime: 77.18259 seconds
+
+Run #89
+Total System Travel Time for SO: 3369437426.689513
+Total ASCALE flow assigned:  9082376.012053143
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  96275074913090.38
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5113347607212056e+16
+Runtime: 77.44499 seconds
+
+Run #90
+Total System Travel Time for SO: 3407851328.897442
+Total ASCALE flow assigned:  9037723.72308725
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  95501305282875.95
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.3840461372796376e+16
+Runtime: 77.46883 seconds
+
+Run #91
+Total System Travel Time for SO: 3282527871.7735972
+Total ASCALE flow assigned:  9087899.83141016
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  96713593790002.45
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5503641115303576e+16
+Runtime: 77.77651 seconds
+
+Run #92
+Total System Travel Time for SO: 3184577318.9725175
+Total ASCALE flow assigned:  8991303.014016287
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  105466239598899.89
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.6656070987721976e+16
+Runtime: 78.12357 seconds
+
+Run #93
+Total System Travel Time for SO: 3354054121.746062
+Total ASCALE flow assigned:  9078289.537567455
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  91305833216504.53
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.314359991640615e+16
+Runtime: 77.10523 seconds
+
+Run #94
+Total System Travel Time for SO: 3228720335.927844
+Total ASCALE flow assigned:  9100821.359981535
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  108452507609926.75
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.983154636988415e+16
+Runtime: 77.6616 seconds
+
+Run #95
+Total System Travel Time for SO: 3337952891.122297
+Total ASCALE flow assigned:  9081555.620690435
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  110237693822501.1
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 4.003070822612529e+16
+Runtime: 77.10898 seconds
+
+Run #96
+Total System Travel Time for SO: 3398230424.812834
+Total ASCALE flow assigned:  8975711.191079477
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  85617032840766.27
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.1626572355968332e+16
+Runtime: 83.81846 seconds
+
+Run #97
+Total System Travel Time for SO: 3326875033.8655567
+Total ASCALE flow assigned:  9094440.156143626
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  96255013716989.34
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.3623986600826144e+16
+Runtime: 77.18229 seconds
+
+Run #98
+Total System Travel Time for SO: 3364736525.757457
+Total ASCALE flow assigned:  9000168.974087708
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  83069221235841.81
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 2.9254552920809788e+16
+Runtime: 77.96174 seconds
+
+Run #99
+Total System Travel Time for SO: 3347060815.5259757
+Total ASCALE flow assigned:  9033281.346103866
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  97029194638841.95
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.3955815591476104e+16
+Runtime: 77.03186 seconds
+
+Run #100
+Total System Travel Time for SO: 3315123944.6286044
+Total ASCALE flow assigned:  9107917.79512291
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for ASCALE:  93604065507171.52
+Total System Travel Time for Selfish Best Response:  3040451260236647.0
+Total System Travel Time for All Demand: 3.5346967125572012e+16
+Runtime: 77.08321 seconds
+

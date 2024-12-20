@@ -1,0 +1,900 @@
+Run #1
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00406 seconds
+
+Run #2
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.05632 seconds
+
+Run #3
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03581 seconds
+
+Run #4
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.02528 seconds
+
+Run #5
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01198 seconds
+
+Run #6
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.93786 seconds
+
+Run #7
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.96485 seconds
+
+Run #8
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.05249 seconds
+
+Run #9
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01351 seconds
+
+Run #10
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97551 seconds
+
+Run #11
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.96463 seconds
+
+Run #12
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97714 seconds
+
+Run #13
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03938 seconds
+
+Run #14
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.16337 seconds
+
+Run #15
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97953 seconds
+
+Run #16
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97467 seconds
+
+Run #17
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03103 seconds
+
+Run #18
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03897 seconds
+
+Run #19
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97723 seconds
+
+Run #20
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97864 seconds
+
+Run #21
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.07314 seconds
+
+Run #22
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01697 seconds
+
+Run #23
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.05348 seconds
+
+Run #24
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.96546 seconds
+
+Run #25
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01364 seconds
+
+Run #26
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.96275 seconds
+
+Run #27
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.9832 seconds
+
+Run #28
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.06108 seconds
+
+Run #29
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.06227 seconds
+
+Run #30
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01161 seconds
+
+Run #31
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.0207 seconds
+
+Run #32
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.0094 seconds
+
+Run #33
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.9189 seconds
+
+Run #34
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.99119 seconds
+
+Run #35
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00993 seconds
+
+Run #36
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.93551 seconds
+
+Run #37
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.95264 seconds
+
+Run #38
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.99721 seconds
+
+Run #39
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03059 seconds
+
+Run #40
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03825 seconds
+
+Run #41
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.92121 seconds
+
+Run #42
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.02026 seconds
+
+Run #43
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.0393 seconds
+
+Run #44
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00585 seconds
+
+Run #45
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.07995 seconds
+
+Run #46
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.02421 seconds
+
+Run #47
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01171 seconds
+
+Run #48
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97554 seconds
+
+Run #49
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01631 seconds
+
+Run #50
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00099 seconds
+
+Run #51
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.99339 seconds
+
+Run #52
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.99888 seconds
+
+Run #53
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.88176 seconds
+
+Run #54
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.91784 seconds
+
+Run #55
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97889 seconds
+
+Run #56
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97086 seconds
+
+Run #57
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00599 seconds
+
+Run #58
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.96203 seconds
+
+Run #59
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.99411 seconds
+
+Run #60
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.0112 seconds
+
+Run #61
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03413 seconds
+
+Run #62
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.95203 seconds
+
+Run #63
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03774 seconds
+
+Run #64
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.94935 seconds
+
+Run #65
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.957 seconds
+
+Run #66
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.05591 seconds
+
+Run #67
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.0257 seconds
+
+Run #68
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.99554 seconds
+
+Run #69
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97525 seconds
+
+Run #70
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.97287 seconds
+
+Run #71
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.05009 seconds
+
+Run #72
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01256 seconds
+
+Run #73
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00701 seconds
+
+Run #74
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.98643 seconds
+
+Run #75
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.9454 seconds
+
+Run #76
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00921 seconds
+
+Run #77
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00067 seconds
+
+Run #78
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00899 seconds
+
+Run #79
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.8803 seconds
+
+Run #80
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.95963 seconds
+
+Run #81
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03495 seconds
+
+Run #82
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.98519 seconds
+
+Run #83
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01055 seconds
+
+Run #84
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.91577 seconds
+
+Run #85
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03853 seconds
+
+Run #86
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.9995 seconds
+
+Run #87
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.00619 seconds
+
+Run #88
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.06643 seconds
+
+Run #89
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.96448 seconds
+
+Run #90
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.03025 seconds
+
+Run #91
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.02294 seconds
+
+Run #92
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.9699 seconds
+
+Run #93
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.98345 seconds
+
+Run #94
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01128 seconds
+
+Run #95
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01442 seconds
+
+Run #96
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.01526 seconds
+
+Run #97
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 7.98843 seconds
+
+Run #98
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.02355 seconds
+
+Run #99
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.0011 seconds
+
+Run #100
+Total System Travel Time for SO: 3768387034.924868
+Total CC flow assigned:  17989125.0
+Total selfish flow assigned:  17989125.0
+Total System Travel Time for CC:  3768387034.924868
+Total System Travel Time for Selfish Best Response:  3768387034.924868
+Total System Travel Time for All Demand: 3768387034.924868
+Runtime: 8.02096 seconds
+

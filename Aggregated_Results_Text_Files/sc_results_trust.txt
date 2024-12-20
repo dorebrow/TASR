@@ -1,0 +1,1467 @@
+#File: sc_results_trust.txt
+#Purpose: Contains the aggregated results of parsing all output files for all
+#single-commodity trust experiments. Record of all trust results data from single-commodity
+#experiments. Result of running parse_file_output_trust.py for all single-commodity
+#experiment output files.
+
+PIG LOW 
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 42
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 24
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 40
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+
+PIG MED
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 27
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 24
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 37
+
+PIG HIGH
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 37
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 27
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 40
+
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+
+CS LOW
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 27
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 40
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 20
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 4
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 3
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 3
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 4
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 1
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 5
+
+CS MED
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.27
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.52
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.77
+  Standard Deviation: 0.00
+  Total Runs: 42
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.27
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.52
+  Standard Deviation: 0.00
+  Total Runs: 43
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.77
+  Standard Deviation: 0.00
+  Total Runs: 27
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.29
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.54
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.78
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.28
+  Standard Deviation: 0.00
+  Total Runs: 2
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.52
+  Standard Deviation: 0.00
+  Total Runs: 4
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.76
+  Standard Deviation: 0.00
+  Total Runs: 4
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 5
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 3
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.79
+  Standard Deviation: 0.00
+  Total Runs: 2
+
+CS HIGH
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.50
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.74
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.24
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.49
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.74
+  Standard Deviation: 0.00
+  Total Runs: 40
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.76
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 4
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 1
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.75
+  Standard Deviation: 0.00
+  Total Runs: 5
+
+ALOOF
+cs_sc_high_aloof.txt 
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 6
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 2
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 2
+
+
+ANA LOW
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 25
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+ANA MED
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 27
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 37
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 27
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 43
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.29
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.54
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+ANA HIGH
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.27
+  Standard Deviation: 0.00
+  Total Runs: 23
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.52
+  Standard Deviation: 0.00
+  Total Runs: 42
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.77
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.27
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.52
+  Standard Deviation: 0.00
+  Total Runs: 31
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.77
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.29
+  Standard Deviation: 0.00
+  Total Runs: 37
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.54
+  Standard Deviation: 0.00
+  Total Runs: 40
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.78
+  Standard Deviation: 0.00
+  Total Runs: 23
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.29
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.52
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.76
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+
+SF LOW
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 42
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 23
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 40
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 42
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 25
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 20
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+
+SF MED
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 24
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 22
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 54
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 27
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+
+SF HIGH
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.29
+  Standard Deviation: 0.00
+  Total Runs: 25
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.53
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.78
+  Standard Deviation: 0.00
+  Total Runs: 43
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 41
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 25
+
+
+AUS LOW
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 40
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 25
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 42
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 29
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 23
+
+AUS MED
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 43
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 25
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 32
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+
+AUS HIGH
+TASR
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.29
+  Standard Deviation: 0.00
+  Total Runs: 15
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.54
+  Standard Deviation: 0.00
+  Total Runs: 16
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.79
+  Standard Deviation: 0.00
+  Total Runs: 11
+
+CC
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 36
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.56
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.82
+  Standard Deviation: 0.00
+  Total Runs: 30
+
+LLF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 23
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+SCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 35
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 26
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.79
+  Standard Deviation: 0.00
+  Total Runs: 39
+
+ASCALE
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.54
+  Standard Deviation: 0.00
+  Total Runs: 28
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.79
+  Standard Deviation: 0.00
+  Total Runs: 34
+
+ALOOF
+Starting Trust Value: 0.25
+  Average Updated Trust Value: 0.30
+  Standard Deviation: 0.00
+  Total Runs: 33
+
+Starting Trust Value: 0.50
+  Average Updated Trust Value: 0.55
+  Standard Deviation: 0.00
+  Total Runs: 38
+
+Starting Trust Value: 0.75
+  Average Updated Trust Value: 0.80
+  Standard Deviation: 0.00
+  Total Runs: 29
