@@ -3,6 +3,7 @@
 This is the implementation in code of the TASR algorithm, along with Largest-Latency First (LLF), Scale, Augmented Scale (ASCALE), and Aloof. The implementation of each algorithm is contained within its own file in the code base, which are called
 ```
 tasr_implementation.py
+cc_implementation.py
 llf_implemenetation.py
 scale_implementation.py
 ascale_implementation.py
