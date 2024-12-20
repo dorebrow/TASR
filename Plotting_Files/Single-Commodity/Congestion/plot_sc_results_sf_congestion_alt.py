@@ -79,7 +79,7 @@ bars_high = ax.barh(y_sf_high, congestion_sf_high, height=0.6, color=colors, xer
 ax.set_yticks([(group_width / 2), 
                (group_width + group_spacing + group_width / 2), 
                (2 * (group_width + group_spacing) + group_width / 2)])
-ax.set_yticklabels(['Low', 'Med', 'High'], fontsize=34, rotation=90, fontweight='bold')
+ax.set_yticklabels(['High', 'Med', 'Low'], fontsize=34, rotation=90, fontweight='bold')
 ax.tick_params(axis='x', labelsize=34, bottom=True, top=True)
 ax.tick_params(axis='y', which='both', pad=240)
 ax.set_xlim(0.0, 1200000)
