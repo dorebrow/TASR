@@ -4,7 +4,7 @@ authors:
 - family-names: "Brown"
   given-names: "Doris"
   orcid:  https://orcid.org/0000-0001-5124-3764
-title: "TASR: A Novel Trust-Aware Stackelberg Routing Algorithm to Mitigate Traffic Congestion"
+title: "TASR Software"
 version: 1.0.0
 doi: 10.5281/zenodo.14533174
 date-released: 12/19/2024
