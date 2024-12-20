@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Brown"
+  given-names: "Doris"
+  orcid:  https://orcid.org/0000-0001-5124-3764
+title: "TASR: A Novel Trust-Aware Stackelberg Routing Algorithm to Mitigate Traffic Congestion"
+version: 1.0.0
+doi: 10.5281/zenodo.14533174
+date-released: 12/19/2024
+url: "https://github.com/github-linguist/linguist"
