@@ -3,12 +3,11 @@
 #for the Anaheim network under low, medium, and high demand levels. Includes table.
 
 import matplotlib.pyplot as plt
-plt.rcParams['font.family'] = 'Arial'
-plt.rcParams['font.stretch'] = 'condensed'
-
-import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.patches as mpatches
+
+plt.rcParams['font.family'] = 'Arial'
+plt.rcParams['font.stretch'] = 'condensed'
 
 ana_low = {
     "SO_TSTT": [3104.07, 3104.07, 3104.07, 3104.07, 3104.07, 3104.07],
