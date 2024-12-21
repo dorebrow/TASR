@@ -67,8 +67,8 @@ std_sf_high = [value for i, value in enumerate(std_sf_high) if i != 1][::-1]
 #print(std_sf_med)
 #print(std_sf_high)
 
-colors = ['#1F4E79', '#2B7A2F', '#D04A4A', '#8C4B8C', '#D67C29'][::-1]
-bar_labels = ['TASR', 'SCALE', 'ASCALE', 'ALOOF', 'LLF'][::-1]
+colors = ['#6B9BD2', '#7DCD7D', '#E06D6D', '#B58BB6', '#F6A04A'][::-1]
+bar_labels = ['TASR','SCALE', 'ASCALE', 'ALOOF', 'LLF'][::-1]
 
 group_width = 5
 group_spacing = 0.5

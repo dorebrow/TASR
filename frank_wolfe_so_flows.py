@@ -63,7 +63,6 @@ class Node:
     """
     This class has attributes associated with any node
     """
-
     def __init__(self, nodeId: str):
         self.Id = nodeId
 
