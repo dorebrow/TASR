@@ -95,6 +95,8 @@ Processed networks currently include
 - Pigou
 - Sioux Falls
 
+Note that while all of the above networks have been processed, the only networks for which results are currently available are Austin, Anaheim, Chicago Sketch, Pigou (strictly single-commodity), and Sioux Falls.
+
 ### Commodity Paths
 Commodity paths are processed using the ```find_paths()``` function in the ```process_network.py``` file. Specific implementational details, including function documentation, can be found in the file, but the key note is that **currently processed files consider a maximum path length of 5 edges**. If you so desire, networks can be reprocessed to get paths of a different maximum length using the following command:
 ```
