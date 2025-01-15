@@ -102,6 +102,17 @@ Processed networks currently include
 
 Note that while all of the above networks have been processed, the only networks for which results are currently available are Austin, Anaheim, Chicago Sketch, Pigou (strictly single-commodity), and Sioux Falls.
 
+### Network Abbreviations
+The followinig abbreviations are commonly used throughout the project within file names to denote the specific networks considered in the simulation experiments used in the paper. 
+
+| Network | Abbreviation |
+| ----- | ------ |
+| Sioux Falls | SF |
+| Anaheim | ANA |
+| Chicago Sketch | CS |
+| Austin | AUS |
+| Pigou | PIG |
+
 ### Single Commodities
 The following single commodities were used in the paper for simulating the single-commodity setting. If you wish to evaluate different single commodities within any of the networks considered in the paper (Sioux Falls, Anaheim, Chicago Sketch, or Austin), make the appropriate changes in the relevant bash files for executing the program, run_sc_automated.sh or run_single_batch_sc.sh. 
 
