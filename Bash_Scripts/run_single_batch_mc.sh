@@ -15,12 +15,12 @@ for ((i=1; i<=NUMBER_OF_ITERATIONS; i++)); do
     echo "Run #$i" >> "$OUTPUT_FILE"
     
     runtime=$(python -c "
-import time, subprocess
-start = time.time()
-subprocess.run(['python', 'main.py', '$NETWORK_PATH', str($TOTAL_DEMAND), '$ALG'], stdout=open('$OUTPUT_FILE', 'a'))
-end = time.time()
-print(round(end - start, 5))
-    ")
+    import time, subprocess
+    start = time.time()
+    subprocess.run(['python', 'main.py', '$NETWORK_PATH', str($TOTAL_DEMAND), '$ALG'], stdout=open('$OUTPUT_FILE', 'a'))
+    end = time.time()
+    print(round(end - start, 5))
+        ")
 
     echo "Run #$i completed in $runtime seconds"
     echo "Runtime: $runtime seconds" >> "$OUTPUT_FILE"

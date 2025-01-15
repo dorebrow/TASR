@@ -21,12 +21,12 @@ for ALG in "${ALGORITHMS[@]}"; do
             echo "Run #$i" >> "$OUTPUT_FILE"
 
             runtime=$(python -c "
-import time, subprocess
-start = time.time()
-subprocess.run(['python', 'main.py', '$NETWORK_PATH', '$TOTAL_DEMAND', '$COMMODITY', '$ALG'], stdout=open('$OUTPUT_FILE', 'a'))
-end = time.time()
-print(round(end - start, 5))
-            ")
+            import time, subprocess
+            start = time.time()
+            subprocess.run(['python', 'main.py', '$NETWORK_PATH', '$TOTAL_DEMAND', '$COMMODITY', '$ALG'], stdout=open('$OUTPUT_FILE', 'a'))
+            end = time.time()
+            print(round(end - start, 5))
+                        ")
 
             echo "Runtime: $runtime seconds" >> "$OUTPUT_FILE"
             echo "" >> "$OUTPUT_FILE"
