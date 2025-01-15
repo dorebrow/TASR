@@ -4,7 +4,7 @@
 NUMBER_OF_ITERATIONS=100
 NETWORK_PATH="TNTP_Networks/Austin"
 COMMODITY="(1877, 1902)"
-ALGORITHMS=("LLF" "SCALE" "ASCALE" "ALOOF")
+ALGORITHMS=("TASR" "LLF" "SCALE" "ASCALE" "ALOOF")
 DEMANDS=("low" "med" "high")
 
 #Iterate through each algorithm and demand
