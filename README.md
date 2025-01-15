@@ -50,10 +50,10 @@ where the arguments listed above correspond to the following values:
 | ALG              | Algorithm to be used. E.g., TASR |
 
 ## Running Simulation Batches
-To run batches of simulations, the bash files ```Bash_Scripts/run_program_sc.sh``` and ```Bash_Scripts/run_program.sh``` can be used for running batches of single-commodity and multi-commodity simulations, respectively.
+To run batches of simulations, the bash files ```Bash_Scripts/run_single_batch_sc.sh``` and ```Bash_Scripts/run_single_batch_mc.sh``` can be used for running batches of single-commodity and multi-commodity simulations, respectively.
 
 ### Running Simulation Batches: Single-Commodity
-To run batches of single-commodity simulations, in the ```Bash_Scripts/run_program_sc.sh``` bash file, modify the values of NUMBER_OF_ITERATIONS, GRAPH, TOTAL_DEMAND, SINGLE-COMMODITY, ALG, and OUTPUT_FILE to your desired values at the top of the file. 
+To run batches of single-commodity simulations, in the ```Bash_Scripts/run_single_batch_sc.sh``` bash file, modify the values of NUMBER_OF_ITERATIONS, GRAPH, TOTAL_DEMAND, SINGLE-COMMODITY, ALG, and OUTPUT_FILE to your desired values at the top of the file. 
 
 The variable NUMBER_OF_ITERATIONS controls how many simulations will be run. 
 
@@ -62,13 +62,18 @@ The variable OUTPUT_FILE is the file name where the results of the batch of simu
 Note: The runtime of each simulation will also be stored in the results file.
 
 ### Running Simulation Batches: Multi-Commodity
-To run batches of multi-commodity simulations, in the ```Bash_Scripts/run_program.sh``` bash file, modify the values of NUMBER_OF_ITERATIONS, GRAPH, TOTAL_DEMAND, ALG, and OUTPUT_FILE to your desired values at the top of the file. 
+To run batches of multi-commodity simulations, in the ```Bash_Scripts/run_single_batch_mc.sh``` bash file, modify the values of NUMBER_OF_ITERATIONS, GRAPH, TOTAL_DEMAND, ALG, and OUTPUT_FILE to your desired values at the top of the file. 
 
 The variable NUMBER_OF_ITERATIONS controls how many simulations will be run. 
 
 The variable OUTPUT_FILE is the file name where the results of the batch of simulations will be stored.
 
 Note: The runtime of each simulation will also be stored in the results file.
+
+## Automated Running of All Algorithms for a Set of Networks
+Automated scripts are available to run batches of multiple individual instances of all algorithms considered (TASR, CC, LLF, Scale, ASCALE, and Aloof). To automate all single-commodity batches, use the run_sc_automated.sh bash file. To automate all multi-commodity batches, use the run_mc_automated.sh bash file.
+
+Note: The above files by default execute a program 100 times for all combinations of the considered algorithms for low, medium, and high demand levels. These values can be changed as desired for new or different combinations of networks, demands, or numbers of runs.
 
 ## Demands
 Total network demand is computed using low, medium, or high commodity demands. Please refer to the paper to see how these demand levels are chosen. The following arguments are used to indicate to the program which demand level you would like to simulate:
@@ -96,6 +101,16 @@ Processed networks currently include
 - Sioux Falls
 
 Note that while all of the above networks have been processed, the only networks for which results are currently available are Austin, Anaheim, Chicago Sketch, Pigou (strictly single-commodity), and Sioux Falls.
+
+### Single Commodities
+The following single commodities were used in the paper for simulating the single-commodity setting. If you wish to evaluate different single commodities within any of the networks considered in the paper (Sioux Falls, Anaheim, Chicago Sketch, or Austin), make the appropriate changes in the relevant bash files for executing the program, run_sc_automated.sh or run_single_batch_sc.sh. 
+
+| Network | Single-Commodity |
+| ----- | ------ |
+| Sioux Falls | (23, 24) |
+| Anaheim | (34, 37) |
+| Chicago Sketch | (359, 124) |
+| Austin | (1877, 1902) |
 
 ### Commodity Paths
 Commodity paths are processed using the ```find_paths()``` function in the ```process_network.py``` file. Specific implementational details, including function documentation, can be found in the file, but the key note is that **currently processed files consider a maximum path length of 5 edges**. If you so desire, networks can be reprocessed to get paths of a different maximum length using the following command:
