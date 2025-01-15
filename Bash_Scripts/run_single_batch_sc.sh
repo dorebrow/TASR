@@ -4,8 +4,10 @@
 NUMBER_OF_ITERATIONS=100
 NETWORK_PATH="TNTP_Networks/SiouxFalls" #"TNTP_Networks/SiouxFalls" #"TNTP_Networks/ChicagoSketch" #"TNTP_Networks/Anaheim"
 TOTAL_DEMAND="HIGH"
-COMMODITY="(23, 24)" #Chicago Sketch: "(359, 124)" Sioux Falls: "(23, 24)" Anaheim: "(34, 37)" Austin "(1877, 1902)"
+COMMODITY="(23, 24)" #Pigou: "(1, 3)" Chicago Sketch: "(359, 124)" Sioux Falls: "(23, 24)" Anaheim: "(34, 37)" Austin "(1877, 1902)"
 ALG="ALOOF" #CC, TASR, LLF, SCALE, ASCALE, ALOOF
+
+#Change output file to reflect above as desired
 OUTPUT_FILE="Results_Files/sf_sc_high_aloof.txt"
 
 > "$OUTPUT_FILE"

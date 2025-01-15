@@ -1,10 +1,12 @@
 #!/bin/bash
 
 #Change as desired
+#Commodities used: Chicago Sketch: "(359, 124)" Sioux Falls: "(23, 24)" 
+                #  Anaheim: "(34, 37)" Austin "(1877, 1902)"
 NUMBER_OF_ITERATIONS=100
 NETWORK_PATH="TNTP_Networks/Austin"
 COMMODITY="(1877, 1902)"
-ALGORITHMS=("TASR" "LLF" "SCALE" "ASCALE" "ALOOF")
+ALGORITHMS=("TASR" "CC" "LLF" "SCALE" "ASCALE" "ALOOF")
 DEMANDS=("low" "med" "high")
 
 #Iterate through each algorithm and demand
