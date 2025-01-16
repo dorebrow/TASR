@@ -164,5 +164,15 @@ Several files for plotting the results of the single-commodity and multi-commodi
 
 Note, you must manually enter the data gotten from running ```parse_file_output.py``` or ```parse_file_output_trust.py``` into the appropriate lists supplied in each of these plotting files.
 
+## Plotting Multi-Commodity Results
+Several different plotting programs are provided in the Plotting_Files/Multi-Commodity folder for plotting the following types of results: efficiency ratios (ER / er), runtime ratios (RR / rr), and serviced ratios (SR / sr). Programs are currently included for plotting these results for each of the multi-commodity networks included in the paper, Sioux Falls, Anaheim, Chicago Sketch, and Austin, and are named accordingly using each network's abbreviation. 
+
+**Each of the files included in the subfiles of the Plotting_Files/Multi-Commodity file are those used to generate the data shown in the Multi-Commodity Results section of the paper.**
+
+## Plotting Single-Commodity Results
+Several different plotting programs are provided in the Plotting_Files/Single-Commodity folder for plotting the following types of resutls: network congestion, efficiency ratios (ER / er), runtime ratios (RR / rr), runtimes, and trust, which are respectively stored in the following subfiles: Congestion, Efficiency_Ratios, Runtime_Ratios, Runtimes, and Trust. Programs are currently included for plotting these results for each or all of the single-commodity networks included in the paper, Pigou, Sioux Falls, Anaheim, Chicago Sketch, and Austin and are named accordingly using each network's abbreviation.
+
+**Each of the files included in the subfiles of the Plotting_Files/Single-Commodity file are those used to generate the data shown in the Multi-Commodity Results section of the paper.**
+
 # Results Data
 The aggregated results for single-commodity and multi-commodity experiments are found in the Aggregated_Results_Test_Files folder. The text files in this folder contain the resulting information obtained by runnning ```parse_file_output.py``` and ```parse_file_output_trust.py``` for all experimental settings. Text files in this folder with names ending in "trust.txt" correspond to the parsed trust results. The results stored in ```sc_results_avg_tt.txt``` are obtained from executing the python programs ```Plotting_Files/Single-Commodity/Average_Travel_Time_per_Driver/plot_sc_avg_tt_per_driver_[NETWORK].py```, where [NETWORK] is the abbreviation of the network for which the average travel time (congestion) per driver is being calculated. The aggregated results for all 72 experiments of the multi-commodity setting are found in the file ```mc_results_agg.txt```.
