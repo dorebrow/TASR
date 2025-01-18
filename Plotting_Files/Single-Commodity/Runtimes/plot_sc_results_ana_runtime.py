@@ -1,6 +1,6 @@
 #File: plot_sc_results_ana_runtime_table.py
 #Purpose: Plots single-commodity average runtime and standard deviations for 
-#the Anaheim network under low, medium, and high demand levels. Includes table.
+#the Anaheim network under low, medium, and high demand levels.
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -112,46 +112,6 @@ sd_row = [
     ','.join([f"{value:.2f}" for value in std_ana_med]),
     ','.join([f"{value:.2f}" for value in std_ana_high])
 ]
-
-rows = ["RT", "SD"]
-plt.subplots_adjust(bottom=0.3)
-
-table_data = [mean_row, sd_row]
-
-table = plt.table(cellText=table_data,
-                  rowLabels=rows,
-                  colLabels=columns,
-                  loc='bottom',
-                  cellLoc='center')
-
-table.auto_set_font_size(False)
-table.set_fontsize(10)
-table.scale(1, 1)
-
-for (i, col) in enumerate(table.get_celld()):
-    if i == 0 or i == 1 or i == 2:
-        table[(0, i)].set_fontsize(34) 
-
-column_widths = [group_width*0.8, group_width*0.8, group_width*0.8] 
-
-cellDict = table.get_celld()
-for x in range(1, len(rows)+1):
-    cellDict[(x,-1)].set_height(0.1)
-    cellDict[(x, -1)].set_fontsize(34) 
-
-for i in range(len(columns)):
-    table[(0, i)].set_height(0.1)
-
-for i in range(len(columns)):
-    table[(1, i)].set_height(0.1)
-
-for i in range(len(columns)):
-    table[(2, i)].set_height(0.1)
-
-
-for row in range(1, len(rows)+1):
-    for col in range(len(columns)):
-        cellDict[(row, col)].set_fontsize(36)
 
 plt.grid(axis='y', linestyle='--', alpha=0.5)
 ax.axhline(y=0, color='gray', linestyle='--', linewidth=1.5)
