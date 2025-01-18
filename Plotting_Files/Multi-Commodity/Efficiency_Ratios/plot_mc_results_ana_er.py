@@ -10,6 +10,7 @@ import matplotlib.patches as mpatches
 plt.rcParams['font.family'] = 'Arial'
 plt.rcParams['font.stretch'] = 'condensed'
 
+#TASR, CC, SCALE, ASCALE, ALOOF, LLF
 ana_low = {
     "SO_TSTT": [440492.48, 440492.48, 440492.48, 440492.48, 440492.48, 440492.48],
     "serviced_drivers": [108465.75, 114300.00, 93258.00, 98119.52, 84708.00, 110442.38],
@@ -52,13 +53,13 @@ efficiency_ana_low, std_ana_low = calculate_efficiency_ratios_with_std(ana_low)
 efficiency_ana_med, std_ana_med = calculate_efficiency_ratios_with_std(ana_med)
 efficiency_ana_high, std_ana_high = calculate_efficiency_ratios_with_std(ana_high)
 
-efficiency_ana_low = [value for i, value in enumerate(efficiency_ana_low) if i != 1][::-1]
-efficiency_ana_med = [value for i, value in enumerate(efficiency_ana_med) if i != 1][::-1]
-efficiency_ana_high = [value for i, value in enumerate(efficiency_ana_high) if i != 1][::-1]
+efficiency_ana_low = [value for i, value in enumerate(efficiency_ana_low) if i != 1]
+efficiency_ana_med = [value for i, value in enumerate(efficiency_ana_med) if i != 1]
+efficiency_ana_high = [value for i, value in enumerate(efficiency_ana_high) if i != 1]
 
-std_ana_low = [value for i, value in enumerate(std_ana_low) if i != 1][::-1]
-std_ana_med = [value for i, value in enumerate(std_ana_med) if i != 1][::-1]
-std_ana_high = [value for i, value in enumerate(std_ana_high) if i != 1][::-1]
+std_ana_low = [value for i, value in enumerate(std_ana_low) if i != 1]
+std_ana_med = [value for i, value in enumerate(std_ana_med) if i != 1]
+std_ana_high = [value for i, value in enumerate(std_ana_high) if i != 1]
 
 #print(efficiency_ana_low)
 #print(efficiency_ana_med)
@@ -120,29 +121,28 @@ fig.subplots_adjust(left=0.3, top=0.7)
 def format_table_data(data):
     return [[f"{float(item):.2f}" for item in row] for row in data]
 
-# Format the data
 table_data = format_table_data([
-    ['0.9342398535384759', '0.014680704651303014'],
-    ['0.7962023324439047', '0.017426812825499315'],
-    ['0.8492630112550389', '0.013149827211579184'],
+    ['0.9583640338196013', '0.01742445183173161'],
     ['0.7263835468882466', '0.016433265784696255'],
-    ['0.9583640338196013', '0.01742445183173161']
+    ['0.8492630112550389', '0.013149827211579184'],
+    ['0.7962023324439047', '0.017426812825499315'],
+    ['0.9342398535384759', '0.014680704651303014'],
 ])
 
 table2_data = format_table_data([
-    ['0.6051321760351158', '0.10890383450433631'],
-    ['0.355352352248558', '0.01910095879501218'],
-    ['0.4096656682538129', '0.03377732867405137'],
-    ['0.2981300801115163', '0.03610462278887485'],
     ['0.7396983695912582', '0.110087599112807'],
+    ['0.2981300801115163', '0.03610462278887485'],
+    ['0.4096656682538129', '0.03377732867405137'],
+    ['0.355352352248558', '0.01910095879501218'],
+    ['0.6051321760351158', '0.10890383450433631'],
 ])
 
 table3_data = format_table_data([
-    ['0.3925593729670775', '0.14981368141322118'],
-    ['0.1804213964033152', '0.02579727425554201'],
-    ['0.24135093490138193', '0.051167904854215546'],
-    ['0.1371390189462319', '0.04699587699886019'],
     ['0.5014552177977211', '0.15765889749303733'],
+    ['0.1371390189462319', '0.04699587699886019'],
+    ['0.24135093490138193', '0.051167904854215546'],
+    ['0.1804213964033152', '0.02579727425554201'],
+    ['0.3925593729670775', '0.14981368141322118'],
 ])
 
 table = ax.table(cellText=table_data,
