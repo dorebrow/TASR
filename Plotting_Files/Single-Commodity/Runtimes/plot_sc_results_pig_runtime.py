@@ -124,7 +124,7 @@ ax.legend(
     combined_labels,
     loc='upper center',
     columnspacing=0.5,
-    ncol=6,
+    ncol=3,
     fontsize=34
 )
 

@@ -1,7 +1,6 @@
 # File: plot_sc_results_cs_congestion_table.py
 # Purpose: Plots single-commodity average total travel time (congestion) and standard deviations 
-# for the Chicago Sketch network under low, medium, and high demand levels. Includes horizontal
-# bar chart and vertical table.
+# for the Chicago Sketch network under low, medium, and high demand levels.
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -94,7 +93,7 @@ ax.set_yticks([(group_width / 2),
                (2 * (group_width + group_spacing) + group_width / 2)])
 ax.set_yticklabels(['High', 'Med', 'Low'], fontsize=34, rotation=90, fontweight='bold')
 ax.tick_params(axis='x', labelsize=34, bottom=True, top=True)
-ax.tick_params(axis='y', which='both', pad=240)
+ax.tick_params(axis='y', which='both', pad=10)
 ax.set_xlim(0.0, 1200000)
 
 def format_func(value, tick_number):
@@ -110,84 +109,6 @@ combined_labels = bar_labels
 fig.legend(handles=combined_handles, labels=combined_labels, loc='upper right', bbox_to_anchor=(0.85, 0.98), ncol=2, frameon=True, fontsize=38)
 
 plt.grid(axis='x', linestyle='--', alpha=0.5)
-
-table0_data = [
-    ['Mean', 'SD'],
-]
-
-table0 = ax.table(cellText=table0_data,
-         loc='top',
-         cellLoc='center',
-         colLabels=None, 
-         bbox=[-0.3, 0.97, 0.3, 0.05]) 
-
-for key, cell in table0.get_celld().items():
-    cell.set_edgecolor('white')
-
-table0.auto_set_font_size(False)
-table0.set_fontsize(34)
-fig.subplots_adjust(left=0.3, top=0.7) 
-
-table_data = [
-    ['5046', '0'],
-    ['5046', '0'],
-    ['5046', '0'],
-    ['5046', '0'],
-    ['5046', '0'],
-    ['5046', '0'],
-]
-
-table = ax.table(cellText=table_data,
-         loc='center',
-         cellLoc='center',
-         colLabels=None, 
-         bbox=[-0.3, 0.67, 0.3, 0.3]) 
-
-table.auto_set_font_size(False)
-table.set_fontsize(34)
-fig.subplots_adjust(left=0.3, top=0.7) 
-
-table2_data = [
-    ['21096', '16'],
-    ['21085', '0'],
-    ['22573', '1080'],
-    ['21681', '334'],
-    ['25945', '890'],
-    ['25958', '552'],
-]
-table2 = ax.table(cellText=table2_data,
-         loc='center',
-         cellLoc='center',
-         colLabels=None, 
-         bbox=[-0.3, 0.35, 0.3, 0.3]) 
-
-table2.auto_set_font_size(False)
-table2.set_fontsize(34)
-fig.subplots_adjust(left=0.3) 
-
-table3_data = [
-    ['77934', '33000'],
-    ['52220', '0'],
-    ['107803', '51563'],
-    ['102753', '54071'],
-    ['292588', '131749'],
-    ['232749', '132346'],
-]
-
-table3 = ax.table(cellText=table3_data,
-         loc='center',
-         cellLoc='center',
-         colLabels=None, 
-         bbox=[-0.3, 0.03, 0.3, 0.3]) 
-
-table3.auto_set_font_size(False)
-table3.set_fontsize(34)
-fig.subplots_adjust(left=0.3) 
-
-for (i, j), cell in table0.get_celld().items():
-    text = cell.get_text()
-    if i == 0:
-        text.set_fontweight('bold')
 
 ax.axhline(y=5.7, color='gray', linestyle='--', linewidth=1.5)
 ax.axhline(y=12.2, color='gray', linestyle='--', linewidth=1.5)
